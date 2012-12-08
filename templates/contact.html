@@ -1,0 +1,57 @@
+<div id="contact-menu"></div> <!-- nav bar anchor -->
+<div class="jagged"></div>
+<div class="separator"></div>
+<div class="jagged_bottom_color"></div>
+
+
+<div id="contact">
+    <div class="container">
+        <div class="sixteen columns">
+            <h2>CONTACT</h2>
+            <p>Remember, a Jedi can feel the Force flowing through him. But with the blast shield down, I can't even see! How am I supposed to fight? I can't get involved! I've got work to do!</p>
+        </div> <!-- end sixteen columns -->
+        
+        <div class="eight columns">
+            <div class="contact_form">
+                
+                <div class="done">
+                    <b>Thank you!</b> I have received your message. 
+                </div>
+            
+                <form method="post" action="process.php">
+                    <p>name</p>
+                    <input type="text" name="name" class="text" />
+                    
+                    <p>email</p>
+                    <input type="text" name="email" class="text" id="email" />
+
+                    <p>message</p>
+                    <textarea name="comment" class="text"></textarea>
+
+                    <input type="submit" id="submit" value="send" class="submit-button" />
+                </form>
+                    
+            </div> <!-- end contact_form -->
+        </div> <!-- end eight columns -->
+        
+        <div class="eight columns">
+        
+            <iframe width="460" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/?ie=UTF8&amp;t=p&amp;ll=37.429887,-122.167797&amp;spn=0.027263,0.078793&amp;z=13&amp;output=embed"></iframe>
+            
+            <div class="contact_info">
+                <div class="four columns alpha">
+                    <p><img src="{{ url_for('static', filename='images/icn_phone.png') }}" alt="" /> +1 [424] 256 8539</p>
+                    <p><img src="{{ url_for('static', filename='images/icn_mail.png') }}" alt="" /> josh@jmvldz.com</p>
+                </div>
+                
+                <div class="four columns omega">
+                    <p><img src="{{ url_for('static', filename='images/icn_address.png') }}" alt="" /> PO Box 14753<br />
+                       Stanford, CA 94309
+                    </p>
+                </div>
+            </div>
+            
+        </div> <!-- end eight columns -->
+        
+    </div> <!-- end container -->
+</div> <!-- end contact -->
