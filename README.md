@@ -1,4 +1,4 @@
-jmvldz
+Valdez Consulting Website - jmvldz
 ======
 
-Personal site
+Personal site based on Flask and a theme by @rcb80.
