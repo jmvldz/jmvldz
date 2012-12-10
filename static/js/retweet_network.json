@@ -1,0 +1,10003 @@
+{
+  "nodes": [
+    {
+      "group": "right", 
+      "name": "n7578", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n940", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n10635", 
+      "tags": [
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n8986", 
+      "tags": [
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n10180", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n10182", 
+      "tags": [
+        "#tlot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n6473", 
+      "tags": [
+        "#teaparty", 
+        "#dadt", 
+        "#obama", 
+        "#lgbt", 
+        "#votedem", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n6479", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n11312", 
+      "tags": [
+        "#dadt", 
+        "#votedem", 
+        "#tlot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n12103", 
+      "tags": [
+        "#dadt", 
+        "#teaparty", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n10261", 
+      "tags": [
+        "#obama", 
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n1126", 
+      "tags": [
+        "#sgp", 
+        "#teaparty", 
+        "#tlot", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n16915", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n14248", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n17673", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#obama", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n15466", 
+      "tags": [
+        "#dadt", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n15460", 
+      "tags": [
+        "#teaparty", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n15462", 
+      "tags": [
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n2960", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n14512", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n6119", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n3761", 
+      "tags": [
+        "#tlot", 
+        "#teaparty", 
+        "#sgp", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n6801", 
+      "tags": [
+        "#sgp", 
+        "#tlot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n14517", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n12743", 
+      "tags": [
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n7603", 
+      "tags": [
+        "#sgp", 
+        "#tlot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n679", 
+      "tags": [
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n9463", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n6865", 
+      "tags": [
+        "#tlot", 
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n4724", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n15879", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n12394", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n18424", 
+      "tags": [
+        "#obama", 
+        "#teaparty", 
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n12179", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n10612", 
+      "tags": [
+        "#votedem", 
+        "#teaparty", 
+        "#dadt", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n281", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n6496", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n12422", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n668", 
+      "tags": [
+        "#sgp", 
+        "#teaparty", 
+        "#obama", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n12229", 
+      "tags": [
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n1148", 
+      "tags": [
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n5918", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n16581", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n2945", 
+      "tags": [
+        "#teaparty", 
+        "#obama", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n12500", 
+      "tags": [
+        "#tlot", 
+        "#sgp", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n13111", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n3165", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n12937", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot", 
+        "#obama", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n7005", 
+      "tags": [
+        "#tlot", 
+        "#teaparty", 
+        "#sgp", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n4322", 
+      "tags": [
+        "#sgp", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n10391", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n13105", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n6533", 
+      "tags": [
+        "#dadt", 
+        "#teaparty", 
+        "#votedem", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n14498", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#obama", 
+        "#sgp", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n14453", 
+      "tags": [
+        "#lgbt", 
+        "#dadt", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n13943", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n2153", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n446", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n11016", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n3399", 
+      "tags": [
+        "#teaparty", 
+        "#obama", 
+        "#dadt", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n918", 
+      "tags": [
+        "#lgbt", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n11440", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n6708", 
+      "tags": [
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n10496", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n14727", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n11548", 
+      "tags": [
+        "#votedem", 
+        "#dadt", 
+        "#tlot", 
+        "#sgp", 
+        "#teaparty", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n11729", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n1169", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n17295", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n18139", 
+      "tags": [
+        "#teaparty", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n16738", 
+      "tags": [
+        "#sgp", 
+        "#teaparty", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n5644", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n8377", 
+      "tags": [
+        "#tlot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n3148", 
+      "tags": [
+        "#tlot", 
+        "#sgp", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n7866", 
+      "tags": [
+        "#tlot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n7144", 
+      "tags": [
+        "#teaparty", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n6940", 
+      "tags": [
+        "#sgp", 
+        "#teaparty", 
+        "#tlot", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n7396", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n16271", 
+      "tags": [
+        "#teaparty", 
+        "#dadt", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n1393", 
+      "tags": [
+        "#tlot", 
+        "#sgp", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n18279", 
+      "tags": [
+        "#tlot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n5896", 
+      "tags": [
+        "#lgbt", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n12786", 
+      "tags": [
+        "#dadt", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n2600", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n13291", 
+      "tags": [
+        "#sgp", 
+        "#obama", 
+        "#tlot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n4856", 
+      "tags": [
+        "#votedem", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n4853", 
+      "tags": [
+        "#tlot", 
+        "#sgp", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n12217", 
+      "tags": [
+        "#obama", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n10255", 
+      "tags": [
+        "#tlot", 
+        "#sgp", 
+        "#teaparty", 
+        "#obama", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n10522", 
+      "tags": [
+        "#sgp", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n16233", 
+      "tags": [
+        "#sgp", 
+        "#tlot", 
+        "#teaparty", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n18125", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n1181", 
+      "tags": [
+        "#teaparty", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n2982", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#obama", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n13091", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n5400", 
+      "tags": [
+        "#votedem", 
+        "#tlot", 
+        "#sgp", 
+        "#teaparty", 
+        "#obama", 
+        "#dadt", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n3129", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n14910", 
+      "tags": [
+        "#teaparty", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n16391", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n2476", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#obama", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n10023", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n11084", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n16858", 
+      "tags": [
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n13909", 
+      "tags": [
+        "#teaparty", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n776", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n770", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n675", 
+      "tags": [
+        "#obama", 
+        "#teaparty", 
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n1219", 
+      "tags": [
+        "#votedem", 
+        "#teaparty", 
+        "#tlot", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n9232", 
+      "tags": [
+        "#sgp", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n17838", 
+      "tags": [
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n8339", 
+      "tags": [
+        "#lgbt", 
+        "#teaparty", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n5461", 
+      "tags": [
+        "#sgp", 
+        "#teaparty", 
+        "#tlot", 
+        "#obama", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n4481", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n5680", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n4151", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n16054", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n6881", 
+      "tags": [
+        "#dadt", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n6887", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp", 
+        "#dadt", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n13468", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n13159", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#obama", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n6222", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n1022", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n14787", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n10574", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n18111", 
+      "tags": [
+        "#teaparty", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n9581", 
+      "tags": [
+        "#sgp", 
+        "#teaparty", 
+        "#obama", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n4817", 
+      "tags": [
+        "#lgbt", 
+        "#dadt", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n8675", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n12795", 
+      "tags": [
+        "#obama", 
+        "#teaparty", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n12792", 
+      "tags": [
+        "#tlot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n11833", 
+      "tags": [
+        "#teaparty", 
+        "#votedem", 
+        "#tlot", 
+        "#sgp", 
+        "#dadt", 
+        "#lgbt", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n10788", 
+      "tags": [
+        "#obama", 
+        "#tlot", 
+        "#dadt", 
+        "#teaparty", 
+        "#votedem", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n7542", 
+      "tags": [
+        "#tlot", 
+        "#obama", 
+        "#dadt", 
+        "#teaparty", 
+        "#votedem", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n755", 
+      "tags": [
+        "#tlot", 
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n10528", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n9259", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n9253", 
+      "tags": [
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n9500", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n4319", 
+      "tags": [
+        "#dadt", 
+        "#lgbt", 
+        "#teaparty", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n13010", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n2250", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n2783", 
+      "tags": [
+        "#tlot", 
+        "#teaparty", 
+        "#sgp", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n2785", 
+      "tags": [
+        "#sgp", 
+        "#tlot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n7588", 
+      "tags": [
+        "#tlot", 
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n12413", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n11275", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n13445", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n5167", 
+      "tags": [
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n13042", 
+      "tags": [
+        "#votedem", 
+        "#teaparty", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n17199", 
+      "tags": [
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n1259", 
+      "tags": [
+        "#sgp", 
+        "#teaparty", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n8418", 
+      "tags": [
+        "#tlot", 
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n9310", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n14555", 
+      "tags": [
+        "#obama", 
+        "#tlot", 
+        "#sgp", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n5312", 
+      "tags": [
+        "#obama", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n9868", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp", 
+        "#obama", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n9864", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n8190", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#dadt", 
+        "#votedem", 
+        "#obama", 
+        "#lgbt", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n4375", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n2230", 
+      "tags": [
+        "#teaparty", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n8739", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n17425", 
+      "tags": [
+        "#dadt", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n6040", 
+      "tags": [
+        "#lgbt", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n17501", 
+      "tags": [
+        "#tlot", 
+        "#sgp", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n17506", 
+      "tags": [
+        "#votedem", 
+        "#tlot", 
+        "#sgp", 
+        "#teaparty", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n9101", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n14334", 
+      "tags": [
+        "#tlot", 
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n3339", 
+      "tags": [
+        "#obama", 
+        "#sgp", 
+        "#tlot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n3621", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n12291", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n17856", 
+      "tags": [
+        "#tlot", 
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n2575", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n247", 
+      "tags": [
+        "#votedem", 
+        "#lgbt", 
+        "#teaparty", 
+        "#tlot", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n6904", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n867", 
+      "tags": [
+        "#tlot", 
+        "#teaparty", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n6676", 
+      "tags": [
+        "#tlot", 
+        "#sgp", 
+        "#obama", 
+        "#teaparty", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n6670", 
+      "tags": [
+        "#tlot", 
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n14536", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n10400", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n11805", 
+      "tags": [
+        "#sgp", 
+        "#teaparty", 
+        "#votedem", 
+        "#obama", 
+        "#tlot", 
+        "#dadt", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n5377", 
+      "tags": [
+        "#teaparty", 
+        "#obama", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n15667", 
+      "tags": [
+        "#votedem", 
+        "#tlot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n5590", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n2815", 
+      "tags": [
+        "#obama", 
+        "#tlot", 
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n8710", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n8854", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n10990", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n17521", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n3354", 
+      "tags": [
+        "#teaparty", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n3358", 
+      "tags": [
+        "#tlot", 
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n16938", 
+      "tags": [
+        "#sgp", 
+        "#tlot", 
+        "#teaparty", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n8829", 
+      "tags": [
+        "#teaparty", 
+        "#obama", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n9511", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n8936", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#obama", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n29", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n21", 
+      "tags": [
+        "#dadt", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n27", 
+      "tags": [
+        "#sgp", 
+        "#teaparty", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n14049", 
+      "tags": [
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n8873", 
+      "tags": [
+        "#teaparty", 
+        "#obama", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n3793", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n5354", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n8932", 
+      "tags": [
+        "#teaparty", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n14885", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n9611", 
+      "tags": [
+        "#sgp", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n17727", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n11823", 
+      "tags": [
+        "#lgbt", 
+        "#dadt", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n7367", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#lgbt", 
+        "#dadt", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n1716", 
+      "tags": [
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n7365", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n7407", 
+      "tags": [
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n3379", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n4398", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n2790", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n7271", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#obama", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n10507", 
+      "tags": [
+        "#teaparty", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n8179", 
+      "tags": [
+        "#votedem", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n13610", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n3815", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n14393", 
+      "tags": [
+        "#teaparty", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n5509", 
+      "tags": [
+        "#sgp", 
+        "#tlot", 
+        "#teaparty", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n14962", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n12395", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n4281", 
+      "tags": [
+        "#teaparty", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n17700", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n2704", 
+      "tags": [
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n6026", 
+      "tags": [
+        "#teaparty", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n6021", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n7349", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#obama", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n120", 
+      "tags": [
+        "#tlot", 
+        "#sgp", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n1084", 
+      "tags": [
+        "#sgp", 
+        "#teaparty", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n9166", 
+      "tags": [
+        "#teaparty", 
+        "#obama", 
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n9942", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp", 
+        "#votedem", 
+        "#dadt", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n15164", 
+      "tags": [
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n14729", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp", 
+        "#obama", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n5250", 
+      "tags": [
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n4075", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n8563", 
+      "tags": [
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n5821", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n11674", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot", 
+        "#dadt", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n69", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n3834", 
+      "tags": [
+        "#tlot", 
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n8013", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n7580", 
+      "tags": [
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n5068", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp", 
+        "#dadt", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n13836", 
+      "tags": [
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n17936", 
+      "tags": [
+        "#tlot", 
+        "#sgp", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n16188", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n8006", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n3059", 
+      "tags": [
+        "#obama", 
+        "#votedem", 
+        "#dadt", 
+        "#teaparty", 
+        "#lgbt", 
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n17583", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n498", 
+      "tags": [
+        "#tlot", 
+        "#votedem", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n11249", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n14749", 
+      "tags": [
+        "#tlot", 
+        "#sgp", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n4583", 
+      "tags": [
+        "#obama", 
+        "#tlot", 
+        "#sgp", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n12744", 
+      "tags": [
+        "#dadt", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n12742", 
+      "tags": [
+        "#tlot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n7641", 
+      "tags": [
+        "#dadt", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n5981", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n4056", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n12924", 
+      "tags": [
+        "#dadt", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n2314", 
+      "tags": [
+        "#dadt", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n10871", 
+      "tags": [
+        "#teaparty", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n8832", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n11872", 
+      "tags": [
+        "#teaparty", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n6360", 
+      "tags": [
+        "#teaparty", 
+        "#dadt", 
+        "#lgbt", 
+        "#tlot", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n14025", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n11657", 
+      "tags": [
+        "#lgbt", 
+        "#dadt", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n5518", 
+      "tags": [
+        "#obama", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n14490", 
+      "tags": [
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n12356", 
+      "tags": [
+        "#obama", 
+        "#dadt", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n12351", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n8245", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n3076", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n3073", 
+      "tags": [
+        "#sgp", 
+        "#teaparty", 
+        "#tlot", 
+        "#dadt", 
+        "#lgbt", 
+        "#obama", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n10685", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n308", 
+      "tags": [
+        "#teaparty", 
+        "#obama", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n14137", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#obama", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n9828", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#obama", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n9903", 
+      "tags": [
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n13425", 
+      "tags": [
+        "#dadt", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n16943", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n17021", 
+      "tags": [
+        "#sgp", 
+        "#tlot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n7479", 
+      "tags": [
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n10896", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n2624", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n16398", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n5515", 
+      "tags": [
+        "#dadt", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n9027", 
+      "tags": [
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n15108", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n17665", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#obama", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n5028", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n5023", 
+      "tags": [
+        "#teaparty", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n11837", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n12331", 
+      "tags": [
+        "#teaparty", 
+        "#dadt", 
+        "#tlot", 
+        "#votedem", 
+        "#obama", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n12339", 
+      "tags": [
+        "#tlot", 
+        "#teaparty", 
+        "#obama", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n5531", 
+      "tags": [
+        "#obama", 
+        "#teaparty", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n17682", 
+      "tags": [
+        "#obama", 
+        "#teaparty", 
+        "#dadt", 
+        "#lgbt", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n17683", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n10663", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n7799", 
+      "tags": [
+        "#tlot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n3247", 
+      "tags": [
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n1792", 
+      "tags": [
+        "#tlot", 
+        "#sgp", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n17044", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n13814", 
+      "tags": [
+        "#obama", 
+        "#tlot", 
+        "#sgp", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n17738", 
+      "tags": [
+        "#sgp", 
+        "#teaparty", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n7127", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n15439", 
+      "tags": [
+        "#dadt", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n2916", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n4544", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n4939", 
+      "tags": [
+        "#sgp", 
+        "#teaparty", 
+        "#tlot", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n12534", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n18339", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n1490", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n13643", 
+      "tags": [
+        "#votedem", 
+        "#teaparty", 
+        "#tlot", 
+        "#sgp", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n7635", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n8796", 
+      "tags": [
+        "#obama", 
+        "#sgp", 
+        "#teaparty", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n7598", 
+      "tags": [
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n15592", 
+      "tags": [
+        "#teaparty", 
+        "#lgbt", 
+        "#dadt", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n5008", 
+      "tags": [
+        "#dadt", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n9705", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n7952", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n13998", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n18416", 
+      "tags": [
+        "#tlot", 
+        "#sgp", 
+        "#dadt", 
+        "#teaparty", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n11590", 
+      "tags": [
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n4494", 
+      "tags": [
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n8995", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n1115", 
+      "tags": [
+        "#teaparty", 
+        "#obama", 
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n16907", 
+      "tags": [
+        "#teaparty", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n14853", 
+      "tags": [
+        "#lgbt", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n16567", 
+      "tags": [
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n2971", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n8435", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#obama", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n4695", 
+      "tags": [
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n15073", 
+      "tags": [
+        "#tlot", 
+        "#dadt", 
+        "#lgbt", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n12108", 
+      "tags": [
+        "#sgp", 
+        "#tlot", 
+        "#teaparty", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n6129", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n6698", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n6695", 
+      "tags": [
+        "#lgbt", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n15764", 
+      "tags": [
+        "#tlot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n7616", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n11909", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n9066", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n14641", 
+      "tags": [
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n12665", 
+      "tags": [
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n12996", 
+      "tags": [
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n8086", 
+      "tags": [
+        "#lgbt", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n15713", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n14881", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n15756", 
+      "tags": [
+        "#sgp", 
+        "#tlot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n13719", 
+      "tags": [
+        "#tlot", 
+        "#teaparty", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n11719", 
+      "tags": [
+        "#dadt", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n5902", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n17539", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n3143", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n4509", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n12514", 
+      "tags": [
+        "#obama", 
+        "#teaparty", 
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n7854", 
+      "tags": [
+        "#obama", 
+        "#teaparty", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n17911", 
+      "tags": [
+        "#dadt", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n3544", 
+      "tags": [
+        "#sgp", 
+        "#teaparty", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n4116", 
+      "tags": [
+        "#sgp", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n6836", 
+      "tags": [
+        "#teaparty", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n1637", 
+      "tags": [
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n1636", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n4918", 
+      "tags": [
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n14608", 
+      "tags": [
+        "#obama", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n3948", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n9954", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n3564", 
+      "tags": [
+        "#teaparty", 
+        "#votedem", 
+        "#sgp", 
+        "#tlot", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n2385", 
+      "tags": [
+        "#obama", 
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n296", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n11551", 
+      "tags": [
+        "#sgp", 
+        "#teaparty", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n6715", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n16143", 
+      "tags": [
+        "#lgbt", 
+        "#dadt", 
+        "#votedem", 
+        "#obama", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n1726", 
+      "tags": [
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n8628", 
+      "tags": [
+        "#tlot", 
+        "#teaparty", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n14410", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n3176", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#obama", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n7871", 
+      "tags": [
+        "#sgp", 
+        "#tlot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n5803", 
+      "tags": [
+        "#dadt", 
+        "#obama", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n12571", 
+      "tags": [
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n13545", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n2447", 
+      "tags": [
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n6387", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n15377", 
+      "tags": [
+        "#votedem", 
+        "#teaparty", 
+        "#tlot", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n6520", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n6521", 
+      "tags": [
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n12620", 
+      "tags": [
+        "#teaparty", 
+        "#obama", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n12624", 
+      "tags": [
+        "#obama", 
+        "#teaparty", 
+        "#tlot", 
+        "#lgbt", 
+        "#dadt", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n13022", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n10488", 
+      "tags": [
+        "#sgp", 
+        "#teaparty", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n16578", 
+      "tags": [
+        "#tlot", 
+        "#teaparty", 
+        "#sgp", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n17325", 
+      "tags": [
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n1179", 
+      "tags": [
+        "#teaparty", 
+        "#votedem", 
+        "#tlot", 
+        "#dadt", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n9365", 
+      "tags": [
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n9843", 
+      "tags": [
+        "#sgp", 
+        "#teaparty", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n14961", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n4423", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n7786", 
+      "tags": [
+        "#sgp", 
+        "#teaparty", 
+        "#lgbt", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n5677", 
+      "tags": [
+        "#tlot", 
+        "#teaparty", 
+        "#sgp", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n3734", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n2740", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n10093", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n11071", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n5081", 
+      "tags": [
+        "#lgbt", 
+        "#teaparty", 
+        "#dadt", 
+        "#tlot", 
+        "#sgp", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n5884", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n9198", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n321", 
+      "tags": [
+        "#tlot", 
+        "#obama", 
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n15771", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n17149", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n17749", 
+      "tags": [
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n16618", 
+      "tags": [
+        "#dadt", 
+        "#teaparty", 
+        "#tlot", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n16614", 
+      "tags": [
+        "#tlot", 
+        "#sgp", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n6755", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n1301", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n6757", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n11865", 
+      "tags": [
+        "#votedem", 
+        "#teaparty", 
+        "#tlot", 
+        "#dadt", 
+        "#obama", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n18133", 
+      "tags": [
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n702", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n1195", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n8345", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n5475", 
+      "tags": [
+        "#obama", 
+        "#tlot", 
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n3130", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n7836", 
+      "tags": [
+        "#teaparty", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n18149", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n6563", 
+      "tags": [
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n16084", 
+      "tags": [
+        "#teaparty", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n5866", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n5865", 
+      "tags": [
+        "#obama", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n15570", 
+      "tags": [
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n3677", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n4804", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n2673", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n17163", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n17625", 
+      "tags": [
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n762", 
+      "tags": [
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n769", 
+      "tags": [
+        "#dadt", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n8965", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n1203", 
+      "tags": [
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n14562", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n15966", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n8322", 
+      "tags": [
+        "#tlot", 
+        "#obama", 
+        "#teaparty", 
+        "#sgp", 
+        "#lgbt", 
+        "#votedem", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n9811", 
+      "tags": [
+        "#votedem", 
+        "#tlot", 
+        "#teaparty", 
+        "#lgbt", 
+        "#dadt", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n2423", 
+      "tags": [
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n17798", 
+      "tags": [
+        "#lgbt", 
+        "#dadt", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n17799", 
+      "tags": [
+        "#teaparty", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n13474", 
+      "tags": [
+        "#sgp", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n10078", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot", 
+        "#obama", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n11309", 
+      "tags": [
+        "#tlot", 
+        "#teaparty", 
+        "#sgp", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n11904", 
+      "tags": [
+        "#lgbt", 
+        "#dadt", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n10216", 
+      "tags": [
+        "#tlot", 
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n12024", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n2657", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n16483", 
+      "tags": [
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n1225", 
+      "tags": [
+        "#teaparty", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n15016", 
+      "tags": [
+        "#tlot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n18099", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n18095", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n15011", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n12051", 
+      "tags": [
+        "#tlot", 
+        "#teaparty", 
+        "#sgp", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n11110", 
+      "tags": [
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n99", 
+      "tags": [
+        "#sgp", 
+        "#obama", 
+        "#teaparty", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n97", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n14320", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n4345", 
+      "tags": [
+        "#obama", 
+        "#teaparty", 
+        "#votedem", 
+        "#tlot", 
+        "#dadt", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n3352", 
+      "tags": [
+        "#lgbt", 
+        "#tlot", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n16794", 
+      "tags": [
+        "#sgp", 
+        "#tlot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n7066", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n11934", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n18141", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n14407", 
+      "tags": [
+        "#dadt", 
+        "#lgbt", 
+        "#teaparty", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n8519", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n8518", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n3630", 
+      "tags": [
+        "#tlot", 
+        "#lgbt", 
+        "#teaparty", 
+        "#dadt", 
+        "#sgp", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n10331", 
+      "tags": [
+        "#teaparty", 
+        "#dadt", 
+        "#obama", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n1247", 
+      "tags": [
+        "#tlot", 
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n14358", 
+      "tags": [
+        "#sgp", 
+        "#tlot", 
+        "#teaparty", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n17346", 
+      "tags": [
+        "#dadt", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n10426", 
+      "tags": [
+        "#tlot", 
+        "#sgp", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n5362", 
+      "tags": [
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n10424", 
+      "tags": [
+        "#lgbt", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n5589", 
+      "tags": [
+        "#obama", 
+        "#tlot", 
+        "#sgp", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n2759", 
+      "tags": [
+        "#tlot", 
+        "#sgp", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n395", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n17445", 
+      "tags": [
+        "#sgp", 
+        "#dadt", 
+        "#teaparty", 
+        "#tlot", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n6582", 
+      "tags": [
+        "#obama", 
+        "#teaparty", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n9624", 
+      "tags": [
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n6270", 
+      "tags": [
+        "#tlot", 
+        "#votedem", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n1583", 
+      "tags": [
+        "#dadt", 
+        "#lgbt", 
+        "#teaparty", 
+        "#tlot", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n11342", 
+      "tags": [
+        "#sgp", 
+        "#tlot", 
+        "#teaparty", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n10962", 
+      "tags": [
+        "#sgp", 
+        "#tlot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n1053", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#obama", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n5770", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n12065", 
+      "tags": [
+        "#sgp", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n8530", 
+      "tags": [
+        "#obama", 
+        "#teaparty", 
+        "#tlot", 
+        "#dadt", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n8537", 
+      "tags": [
+        "#tlot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n13796", 
+      "tags": [
+        "#teaparty", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n12201", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n2564", 
+      "tags": [
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n7519", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n2568", 
+      "tags": [
+        "#tlot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n257", 
+      "tags": [
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n6643", 
+      "tags": [
+        "#tlot", 
+        "#sgp", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n10280", 
+      "tags": [
+        "#tlot", 
+        "#sgp", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n14511", 
+      "tags": [
+        "#obama", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n7691", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n7697", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n2779", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n8708", 
+      "tags": [
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n3286", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n6072", 
+      "tags": [
+        "#tlot", 
+        "#sgp", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n2480", 
+      "tags": [
+        "#sgp", 
+        "#teaparty", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n110", 
+      "tags": [
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n5759", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n4087", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n4085", 
+      "tags": [
+        "#teaparty", 
+        "#votedem", 
+        "#dadt", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n8556", 
+      "tags": [
+        "#tlot", 
+        "#sgp", 
+        "#teaparty", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n18053", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n16634", 
+      "tags": [
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n13607", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n14924", 
+      "tags": [
+        "#tlot", 
+        "#sgp", 
+        "#teaparty", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n3364", 
+      "tags": [
+        "#dadt", 
+        "#tlot", 
+        "#sgp", 
+        "#obama", 
+        "#teaparty", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n2847", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n8760", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n8761", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n8765", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n12389", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n13380", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n13387", 
+      "tags": [
+        "#dadt", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n17712", 
+      "tags": [
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n2718", 
+      "tags": [
+        "#lgbt", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n6010", 
+      "tags": [
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n1891", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n1544", 
+      "tags": [
+        "#teaparty", 
+        "#obama", 
+        "#dadt", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n133", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n17894", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n4063", 
+      "tags": [
+        "#dadt", 
+        "#obama", 
+        "#teaparty", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n12710", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n12550", 
+      "tags": [
+        "#votedem", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n4601", 
+      "tags": [
+        "#tlot", 
+        "#sgp", 
+        "#teaparty", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n17687", 
+      "tags": [
+        "#tlot", 
+        "#obama", 
+        "#sgp", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n16632", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n7416", 
+      "tags": [
+        "#lgbt", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n7262", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n11992", 
+      "tags": [
+        "#dadt", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n1379", 
+      "tags": [
+        "#teaparty", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n18215", 
+      "tags": [
+        "#tlot", 
+        "#sgp", 
+        "#teaparty", 
+        "#obama", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n17409", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n5070", 
+      "tags": [
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n8295", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n2737", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n2734", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n2732", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n6033", 
+      "tags": [
+        "#lgbt", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n9872", 
+      "tags": [
+        "#tlot", 
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n2196", 
+      "tags": [
+        "#tlot", 
+        "#sgp", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n7746", 
+      "tags": [
+        "#sgp", 
+        "#tlot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n6297", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n6290", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n13652", 
+      "tags": [
+        "#teaparty", 
+        "#obama", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n13608", 
+      "tags": [
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n9555", 
+      "tags": [
+        "#lgbt", 
+        "#dadt", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n8790", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n12777", 
+      "tags": [
+        "#tlot", 
+        "#teaparty", 
+        "#obama", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n1934", 
+      "tags": [
+        "#tlot", 
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n15170", 
+      "tags": [
+        "#sgp", 
+        "#tlot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n11827", 
+      "tags": [
+        "#sgp", 
+        "#tlot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n12231", 
+      "tags": [
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n4628", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n2508", 
+      "tags": [
+        "#teaparty", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n11156", 
+      "tags": [
+        "#tlot", 
+        "#sgp", 
+        "#teaparty", 
+        "#dadt", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n12642", 
+      "tags": [
+        "#teaparty", 
+        "#votedem", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n5550", 
+      "tags": [
+        "#votedem", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n10592", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n3520", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot", 
+        "#obama", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n5057", 
+      "tags": [
+        "#votedem", 
+        "#teaparty", 
+        "#tlot", 
+        "#sgp", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n9725", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n2743", 
+      "tags": [
+        "#obama", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n13775", 
+      "tags": [
+        "#tlot", 
+        "#obama", 
+        "#teaparty", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n9691", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n9697", 
+      "tags": [
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n13124", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n317", 
+      "tags": [
+        "#teaparty", 
+        "#obama", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n3567", 
+      "tags": [
+        "#teaparty", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n13682", 
+      "tags": [
+        "#sgp", 
+        "#teaparty", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n2506", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#obama", 
+        "#sgp", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n16539", 
+      "tags": [
+        "#tlot", 
+        "#sgp", 
+        "#teaparty", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n16165", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n10132", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n5199", 
+      "tags": [
+        "#tlot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n5996", 
+      "tags": [
+        "#dadt", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n15400", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n2077", 
+      "tags": [
+        "#tlot", 
+        "#teaparty", 
+        "#sgp", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n6173", 
+      "tags": [
+        "#dadt", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n6864", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n11408", 
+      "tags": [
+        "#votedem", 
+        "#dadt", 
+        "#teaparty", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n8843", 
+      "tags": [
+        "#teaparty", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n1338", 
+      "tags": [
+        "#teaparty", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n13402", 
+      "tags": [
+        "#tlot", 
+        "#sgp", 
+        "#dadt", 
+        "#obama", 
+        "#teaparty", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n16573", 
+      "tags": [
+        "#tlot", 
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n15899", 
+      "tags": [
+        "#dadt", 
+        "#lgbt", 
+        "#teaparty", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n17941", 
+      "tags": [
+        "#teaparty", 
+        "#dadt", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n8255", 
+      "tags": [
+        "#teaparty", 
+        "#votedem", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n17801", 
+      "tags": [
+        "#sgp", 
+        "#tlot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n8075", 
+      "tags": [
+        "#teaparty", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n13014", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n196", 
+      "tags": [
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n6786", 
+      "tags": [
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n6781", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n18306", 
+      "tags": [
+        "#teaparty", 
+        "#obama", 
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n12566", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot", 
+        "#obama", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n2924", 
+      "tags": [
+        "#dadt", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n4550", 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n17141", 
+      "tags": [
+        "#tlot", 
+        "#teaparty", 
+        "#obama", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n16715", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n6335", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n3451", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n6849", 
+      "tags": [
+        "#dadt", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n3450", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n14724", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n11423", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n7827", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp", 
+        "#dadt", 
+        "#lgbt", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n9018", 
+      "tags": [
+        "#teaparty", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n9012", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n18244", 
+      "tags": [
+        "#tlot", 
+        "#sgp", 
+        "#teaparty", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n17651", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n17960", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tlot", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n12306", 
+      "tags": [
+        "#votedem", 
+        "#teaparty", 
+        "#tlot", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n12303", 
+      "tags": [
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n5010", 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#obama", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n4949", 
+      "tags": [
+        "#votedem", 
+        "#tlot", 
+        "#dadt", 
+        "#lgbt", 
+        "#teaparty", 
+        "#obama", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n8052", 
+      "tags": [
+        "#sgp", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n7945", 
+      "tags": [
+        "#tlot"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n13801", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n3117", 
+      "tags": [
+        "#tlot", 
+        "#sgp", 
+        "#teaparty", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n18300", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n13303", 
+      "tags": [
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n13300", 
+      "tags": [
+        "#tlot", 
+        "#votedem", 
+        "#dadt", 
+        "#obama", 
+        "#lgbt", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n13306", 
+      "tags": [
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n3258", 
+      "tags": [
+        "#obama", 
+        "#teaparty", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n16373", 
+      "tags": [
+        "#tlot", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n17219", 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n11211", 
+      "tags": [
+        "#tlot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n1547", 
+      "tags": [
+        "#lgbt", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n12464", 
+      "tags": [
+        "#tlot", 
+        "#sgp", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n12220", 
+      "tags": [
+        "#obama", 
+        "#teaparty", 
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n12720", 
+      "tags": [
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n16828", 
+      "tags": [
+        "#teaparty", 
+        "#lgbt", 
+        "#dadt", 
+        "#obama"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n6683", 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n654", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n15584", 
+      "tags": [
+        "#teaparty", 
+        "#tlot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n14221", 
+      "tags": [
+        "#teaparty", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "group": "right", 
+      "name": "n8214", 
+      "tags": [
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "group": "left", 
+      "name": "n5563", 
+      "tags": [
+        "#dadt"
+      ]
+    }
+  ], 
+  "links": [
+    {
+      "source": 0, 
+      "target": 458, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot", 
+        "#ocra", 
+        "#ucot", 
+        "#teaparty", 
+        "#co"
+      ]
+    }, 
+    {
+      "source": 2, 
+      "target": 26, 
+      "value": 1, 
+      "tags": [
+        "#votedem", 
+        "#p2", 
+        "#p2b"
+      ]
+    }, 
+    {
+      "source": 3, 
+      "target": 38, 
+      "value": 1, 
+      "tags": [
+        "#ma", 
+        "#tcot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "source": 10, 
+      "target": 91, 
+      "value": 1, 
+      "tags": [
+        "#chomsky", 
+        "#obama"
+      ]
+    }, 
+    {
+      "source": 11, 
+      "target": 483, 
+      "value": 1, 
+      "tags": [
+        "#acorn", 
+        "#twisters", 
+        "#nvsen", 
+        "#tcot", 
+        "#ocra", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "source": 13, 
+      "target": 214, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#912", 
+        "#teaparty", 
+        "#gop", 
+        "#tl"
+      ]
+    }, 
+    {
+      "source": 13, 
+      "target": 439, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#912", 
+        "#teaparty", 
+        "#gop", 
+        "#tlot", 
+        "#dnc", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 14, 
+      "target": 562, 
+      "value": 1, 
+      "tags": [
+        "#arsen", 
+        "#teaparty", 
+        "#a"
+      ]
+    }, 
+    {
+      "source": 19, 
+      "target": 47, 
+      "value": 1, 
+      "tags": [
+        "#gop", 
+        "#rino", 
+        "#desen", 
+        "#teaparty", 
+        "#de", 
+        "#tc"
+      ]
+    }, 
+    {
+      "source": 20, 
+      "target": 561, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 21, 
+      "target": 426, 
+      "value": 1, 
+      "tags": [
+        "#tweetcongress", 
+        "#tcot", 
+        "#gop", 
+        "#ftrs", 
+        "#hhrs", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "source": 23, 
+      "target": 429, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 24, 
+      "target": 329, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "source": 27, 
+      "target": 651, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#teaparty", 
+        "#sgp", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 27, 
+      "target": 405, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#teaparty", 
+        "#sgp", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 29, 
+      "target": 184, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#teaparty", 
+        "#sgp", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 29, 
+      "target": 634, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#teaparty", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 33, 
+      "target": 98, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#glennbeck", 
+        "#tbrs", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 36, 
+      "target": 611, 
+      "value": 1, 
+      "tags": [
+        "#obama", 
+        "#askenergy", 
+        "#askjobs", 
+        "#comment"
+      ]
+    }, 
+    {
+      "source": 41, 
+      "target": 230, 
+      "value": 1, 
+      "tags": [
+        "#tweetcongress"
+      ]
+    }, 
+    {
+      "source": 44, 
+      "target": 298, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot", 
+        "#tp", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "source": 45, 
+      "target": 144, 
+      "value": 1, 
+      "tags": [
+        "#dadt", 
+        "#noh8"
+      ]
+    }, 
+    {
+      "source": 45, 
+      "target": 590, 
+      "value": 1, 
+      "tags": [
+        "#senate", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 49, 
+      "target": 515, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#sgp", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 49, 
+      "target": 236, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#sgp", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 50, 
+      "target": 548, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 50, 
+      "target": 549, 
+      "value": 1, 
+      "tags": [
+        "#dadt", 
+        "#nvsen"
+      ]
+    }, 
+    {
+      "source": 50, 
+      "target": 382, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 51, 
+      "target": 397, 
+      "value": 1, 
+      "tags": [
+        "#desen", 
+        "#tcot", 
+        "#teaparty", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 52, 
+      "target": 570, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#p2", 
+        "#p21", 
+        "#topprog", 
+        "#tcot", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "source": 52, 
+      "target": 603, 
+      "value": 1, 
+      "tags": [
+        "#nvsen", 
+        "#p2", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 53, 
+      "target": 419, 
+      "value": 1, 
+      "tags": [
+        "#nvsen", 
+        "#tcot", 
+        "#tlot", 
+        "#teaparty", 
+        "#p2", 
+        "#p21"
+      ]
+    }, 
+    {
+      "source": 53, 
+      "target": 38, 
+      "value": 1, 
+      "tags": [
+        "#obama", 
+        "#teaparty", 
+        "#tcot", 
+        "#tlot", 
+        "#p2", 
+        "#p21"
+      ]
+    }, 
+    {
+      "source": 58, 
+      "target": 96, 
+      "value": 1, 
+      "tags": [
+        "#obama", 
+        "#ask"
+      ]
+    }, 
+    {
+      "source": 58, 
+      "target": 285, 
+      "value": 1, 
+      "tags": [
+        "#obama", 
+        "#ask"
+      ]
+    }, 
+    {
+      "source": 59, 
+      "target": 560, 
+      "value": 1, 
+      "tags": [
+        "#p2", 
+        "#tcot", 
+        "#lgbt", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 59, 
+      "target": 325, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#tcot", 
+        "#p2", 
+        "#kysen"
+      ]
+    }, 
+    {
+      "source": 60, 
+      "target": 403, 
+      "value": 1, 
+      "tags": [
+        "#lgbt", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 61, 
+      "target": 7, 
+      "value": 1, 
+      "tags": [
+        "#policestate", 
+        "#teaparty", 
+        "#aclu", 
+        "#surveillance"
+      ]
+    }, 
+    {
+      "source": 62, 
+      "target": 627, 
+      "value": 1, 
+      "tags": [
+        "#rsrh", 
+        "#tcot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "source": 64, 
+      "target": 223, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 66, 
+      "target": 609, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#teaparty", 
+        "#humor"
+      ]
+    }, 
+    {
+      "source": 66, 
+      "target": 35, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#teaparty", 
+        "#top10", 
+        "#humor"
+      ]
+    }, 
+    {
+      "source": 68, 
+      "target": 468, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 69, 
+      "target": 363, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#twisters", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 72, 
+      "target": 451, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "source": 75, 
+      "target": 471, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#tcot"
+      ]
+    }, 
+    {
+      "source": 77, 
+      "target": 404, 
+      "value": 1, 
+      "tags": [
+        "#p2", 
+        "#teaparty", 
+        "#tcot", 
+        "#tl"
+      ]
+    }, 
+    {
+      "source": 81, 
+      "target": 497, 
+      "value": 1, 
+      "tags": [
+        "#vote", 
+        "#lgbt", 
+        "#fb", 
+        "#marriageequality"
+      ]
+    }, 
+    {
+      "source": 82, 
+      "target": 469, 
+      "value": 1, 
+      "tags": [
+        "#dadt", 
+        "#lgbt", 
+        "#news", 
+        "#military"
+      ]
+    }, 
+    {
+      "source": 83, 
+      "target": 57, 
+      "value": 1, 
+      "tags": [
+        "#tsot", 
+        "#912", 
+        "#teaparty", 
+        "#tcot", 
+        "#pa"
+      ]
+    }, 
+    {
+      "source": 83, 
+      "target": 263, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#nra", 
+        "#teaparty", 
+        "#tlot", 
+        "#rs", 
+        "#palin12", 
+        "#sp"
+      ]
+    }, 
+    {
+      "source": 84, 
+      "target": 625, 
+      "value": 1, 
+      "tags": [
+        "#obama", 
+        "#tcot", 
+        "#sgp", 
+        "#ocra", 
+        "#twisters", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 86, 
+      "target": 612, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "source": 88, 
+      "target": 528, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot", 
+        "#sgp", 
+        "#hhrs", 
+        "#ocra"
+      ]
+    }, 
+    {
+      "source": 88, 
+      "target": 163, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot", 
+        "#sgp", 
+        "#hhrs", 
+        "#ocra"
+      ]
+    }, 
+    {
+      "source": 88, 
+      "target": 74, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot", 
+        "#p2", 
+        "#teaparty", 
+        "#hhrs", 
+        "#ocra"
+      ]
+    }, 
+    {
+      "source": 88, 
+      "target": 46, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot", 
+        "#sgp", 
+        "#hhrs", 
+        "#ocra"
+      ]
+    }, 
+    {
+      "source": 88, 
+      "target": 272, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot", 
+        "#sgp", 
+        "#hhrs", 
+        "#ocra"
+      ]
+    }, 
+    {
+      "source": 88, 
+      "target": 501, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot", 
+        "#sgp", 
+        "#hhrs"
+      ]
+    }, 
+    {
+      "source": 88, 
+      "target": 408, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot", 
+        "#sgp", 
+        "#hhrs", 
+        "#ocra"
+      ]
+    }, 
+    {
+      "source": 88, 
+      "target": 287, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot", 
+        "#sgp", 
+        "#hhrs", 
+        "#ocra"
+      ]
+    }, 
+    {
+      "source": 90, 
+      "target": 545, 
+      "value": 1, 
+      "tags": [
+        "#twisters", 
+        "#tcot", 
+        "#ocr"
+      ]
+    }, 
+    {
+      "source": 93, 
+      "target": 241, 
+      "value": 1, 
+      "tags": [
+        "#tcot"
+      ]
+    }, 
+    {
+      "source": 93, 
+      "target": 1, 
+      "value": 1, 
+      "tags": [
+        "#p2", 
+        "#tcot"
+      ]
+    }, 
+    {
+      "source": 93, 
+      "target": 213, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#ocra", 
+        "#tlot", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 93, 
+      "target": 489, 
+      "value": 1, 
+      "tags": [
+        "#hcr", 
+        "#tcot", 
+        "#ocra", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "source": 97, 
+      "target": 114, 
+      "value": 1, 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 99, 
+      "target": 32, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 100, 
+      "target": 420, 
+      "value": 1, 
+      "tags": [
+        "#obama", 
+        "#communist", 
+        "#history", 
+        "#tcot"
+      ]
+    }, 
+    {
+      "source": 103, 
+      "target": 216, 
+      "value": 1, 
+      "tags": [
+        "#republican", 
+        "#foxnews", 
+        "#glennbeck"
+      ]
+    }, 
+    {
+      "source": 105, 
+      "target": 617, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#mapoli", 
+        "#ma10"
+      ]
+    }, 
+    {
+      "source": 106, 
+      "target": 155, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#p2", 
+        "#teaparty", 
+        "#sg"
+      ]
+    }, 
+    {
+      "source": 108, 
+      "target": 492, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#sgp", 
+        "#teaparty", 
+        "#musl"
+      ]
+    }, 
+    {
+      "source": 113, 
+      "target": 247, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 115, 
+      "target": 460, 
+      "value": 1, 
+      "tags": [
+        "#socialism", 
+        "#obama"
+      ]
+    }, 
+    {
+      "source": 119, 
+      "target": 160, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#tcot", 
+        "#tpp"
+      ]
+    }, 
+    {
+      "source": 119, 
+      "target": 496, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#tcot", 
+        "#tpp", 
+        "#nstpp", 
+        "#majority", 
+        "#912p", 
+        "#s"
+      ]
+    }, 
+    {
+      "source": 119, 
+      "target": 573, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#nwo"
+      ]
+    }, 
+    {
+      "source": 120, 
+      "target": 619, 
+      "value": 1, 
+      "tags": [
+        "#tbrs", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 125, 
+      "target": 253, 
+      "value": 1, 
+      "tags": [
+        "#twisters", 
+        "#tcot", 
+        "#anystreet", 
+        "#tlot", 
+        "#ocra", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "source": 126, 
+      "target": 434, 
+      "value": 1, 
+      "tags": [
+        "#lgbt", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 127, 
+      "target": 506, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#tcot"
+      ]
+    }, 
+    {
+      "source": 128, 
+      "target": 175, 
+      "value": 1, 
+      "tags": [
+        "#obama", 
+        "#elections"
+      ]
+    }, 
+    {
+      "source": 129, 
+      "target": 338, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot", 
+        "#teaparty", 
+        "#912", 
+        "#dont"
+      ]
+    }, 
+    {
+      "source": 129, 
+      "target": 563, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot", 
+        "#teaparty", 
+        "#912", 
+        "#dontgo"
+      ]
+    }, 
+    {
+      "source": 134, 
+      "target": 137, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#tcot", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 134, 
+      "target": 618, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 134, 
+      "target": 453, 
+      "value": 1, 
+      "tags": [
+        "#rnc", 
+        "#gop", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 134, 
+      "target": 453, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#p2", 
+        "#topprog"
+      ]
+    }, 
+    {
+      "source": 138, 
+      "target": 162, 
+      "value": 1, 
+      "tags": [
+        "#lgbt", 
+        "#gay", 
+        "#glbt", 
+        "#p2", 
+        "#mccain"
+      ]
+    }, 
+    {
+      "source": 138, 
+      "target": 597, 
+      "value": 1, 
+      "tags": [
+        "#ladygaga", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 139, 
+      "target": 140, 
+      "value": 1, 
+      "tags": [
+        "#glbt", 
+        "#dadt", 
+        "#eq"
+      ]
+    }, 
+    {
+      "source": 141, 
+      "target": 193, 
+      "value": 1, 
+      "tags": [
+        "#obama", 
+        "#imgb", 
+        "#teaparty", 
+        "#tcot", 
+        "#tlot", 
+        "#politics", 
+        "#gop", 
+        "#dem", 
+        "#business", 
+        "#mil", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "source": 142, 
+      "target": 523, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "source": 142, 
+      "target": 232, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#sgp", 
+        "#rsrh"
+      ]
+    }, 
+    {
+      "source": 142, 
+      "target": 147, 
+      "value": 1, 
+      "tags": [
+        "#rsrh", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "source": 145, 
+      "target": 205, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 148, 
+      "target": 225, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#gop", 
+        "#teaparty", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 151, 
+      "target": 56, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot", 
+        "#twisters", 
+        "#teapar"
+      ]
+    }, 
+    {
+      "source": 152, 
+      "target": 278, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#teaparty", 
+        "#tpp"
+      ]
+    }, 
+    {
+      "source": 153, 
+      "target": 314, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "source": 156, 
+      "target": 89, 
+      "value": 1, 
+      "tags": [
+        "#ocra", 
+        "#tcot", 
+        "#sgp", 
+        "#gop", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 157, 
+      "target": 124, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#tcot", 
+        "#gop"
+      ]
+    }, 
+    {
+      "source": 159, 
+      "target": 188, 
+      "value": 1, 
+      "tags": [
+        "#columbusday", 
+        "#teaparty", 
+        "#nativ"
+      ]
+    }, 
+    {
+      "source": 161, 
+      "target": 646, 
+      "value": 1, 
+      "tags": [
+        "#army", 
+        "#lgbt", 
+        "#dadt", 
+        "#gay"
+      ]
+    }, 
+    {
+      "source": 164, 
+      "target": 149, 
+      "value": 1, 
+      "tags": [
+        "#votedem", 
+        "#p2", 
+        "#tcot"
+      ]
+    }, 
+    {
+      "source": 167, 
+      "target": 182, 
+      "value": 1, 
+      "tags": [
+        "#obama", 
+        "#tcot", 
+        "#demtaxhike"
+      ]
+    }, 
+    {
+      "source": 168, 
+      "target": 192, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#gop", 
+        "#teaparty", 
+        "#palin", 
+        "#palin12"
+      ]
+    }, 
+    {
+      "source": 170, 
+      "target": 183, 
+      "value": 1, 
+      "tags": [
+        "#lgf", 
+        "#lgfpages", 
+        "#tcot", 
+        "#tlot", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 171, 
+      "target": 249, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#israel", 
+        "#christian", 
+        "#jewish"
+      ]
+    }, 
+    {
+      "source": 178, 
+      "target": 573, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#national", 
+        "#security"
+      ]
+    }, 
+    {
+      "source": 178, 
+      "target": 30, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot", 
+        "#teaparty", 
+        "#wethepeople", 
+        "#s"
+      ]
+    }, 
+    {
+      "source": 181, 
+      "target": 332, 
+      "value": 1, 
+      "tags": [
+        "#p2", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "source": 185, 
+      "target": 37, 
+      "value": 1, 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "source": 186, 
+      "target": 104, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "source": 186, 
+      "target": 248, 
+      "value": 1, 
+      "tags": [
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 189, 
+      "target": 25, 
+      "value": 1, 
+      "tags": [
+        "#anystreet", 
+        "#gotv", 
+        "#twisters", 
+        "#tcot", 
+        "#t"
+      ]
+    }, 
+    {
+      "source": 191, 
+      "target": 459, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#tcot", 
+        "#tpp", 
+        "#alaska", 
+        "#ak"
+      ]
+    }, 
+    {
+      "source": 195, 
+      "target": 622, 
+      "value": 1, 
+      "tags": [
+        "#dadt", 
+        "#dadtsenatedebate"
+      ]
+    }, 
+    {
+      "source": 197, 
+      "target": 577, 
+      "value": 1, 
+      "tags": [
+        "#lgf", 
+        "#lgfpages", 
+        "#tcot", 
+        "#tlot", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 197, 
+      "target": 499, 
+      "value": 1, 
+      "tags": [
+        "#lgf", 
+        "#tcot", 
+        "#tlot", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 197, 
+      "target": 244, 
+      "value": 1, 
+      "tags": [
+        "#lgf", 
+        "#tcot", 
+        "#tlot", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 201, 
+      "target": 293, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 203, 
+      "target": 583, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#ocra", 
+        "#hcr", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 206, 
+      "target": 424, 
+      "value": 1, 
+      "tags": [
+        "#gop", 
+        "#p2", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "source": 206, 
+      "target": 17, 
+      "value": 1, 
+      "tags": [
+        "#p2", 
+        "#lgbt", 
+        "#tcot", 
+        "#christian"
+      ]
+    }, 
+    {
+      "source": 206, 
+      "target": 350, 
+      "value": 1, 
+      "tags": [
+        "#p2", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "source": 207, 
+      "target": 192, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "source": 207, 
+      "target": 67, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#teaparty", 
+        "#tpx", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "source": 207, 
+      "target": 556, 
+      "value": 1, 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 211, 
+      "target": 165, 
+      "value": 1, 
+      "tags": [
+        "#washington", 
+        "#terrorismo", 
+        "#cuba", 
+        "#venezuela", 
+        "#usa", 
+        "#obama"
+      ]
+    }, 
+    {
+      "source": 212, 
+      "target": 184, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "source": 218, 
+      "target": 305, 
+      "value": 1, 
+      "tags": [
+        "#desen", 
+        "#tcot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 218, 
+      "target": 439, 
+      "value": 1, 
+      "tags": [
+        "#desen", 
+        "#netde", 
+        "#tcot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 219, 
+      "target": 348, 
+      "value": 1, 
+      "tags": [
+        "#glennbeck", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 220, 
+      "target": 177, 
+      "value": 1, 
+      "tags": [
+        "#p2", 
+        "#tcot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 221, 
+      "target": 436, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 221, 
+      "target": 31, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 224, 
+      "target": 381, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "source": 226, 
+      "target": 415, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#joe"
+      ]
+    }, 
+    {
+      "source": 228, 
+      "target": 283, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#p2", 
+        "#tcot", 
+        "#ocra"
+      ]
+    }, 
+    {
+      "source": 229, 
+      "target": 309, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#twisters", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "source": 230, 
+      "target": 146, 
+      "value": 1, 
+      "tags": [
+        "#waters", 
+        "#communist", 
+        "#tcot", 
+        "#sgp", 
+        "#tpp", 
+        "#ocra", 
+        "#twisters", 
+        "#iamthemob", 
+        "#csnj", 
+        "#hack"
+      ]
+    }, 
+    {
+      "source": 233, 
+      "target": 442, 
+      "value": 1, 
+      "tags": [
+        "#sgp", 
+        "#t"
+      ]
+    }, 
+    {
+      "source": 234, 
+      "target": 465, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#twisters", 
+        "#gop", 
+        "#teaparty", 
+        "#ocra", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "source": 235, 
+      "target": 609, 
+      "value": 1, 
+      "tags": [
+        "#casen", 
+        "#twisters", 
+        "#tcot", 
+        "#ocra", 
+        "#sgp", 
+        "#ca"
+      ]
+    }, 
+    {
+      "source": 237, 
+      "target": 395, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 238, 
+      "target": 217, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot", 
+        "#ocra", 
+        "#cspj", 
+        "#dems", 
+        "#gop", 
+        "#tpp", 
+        "#tw"
+      ]
+    }, 
+    {
+      "source": 238, 
+      "target": 73, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot", 
+        "#ocra", 
+        "#hhrs"
+      ]
+    }, 
+    {
+      "source": 238, 
+      "target": 433, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#dems", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "source": 239, 
+      "target": 65, 
+      "value": 1, 
+      "tags": [
+        "#dnc", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 242, 
+      "target": 349, 
+      "value": 1, 
+      "tags": [
+        "#rallyforsanity", 
+        "#jcot", 
+        "#gop", 
+        "#tcot", 
+        "#p2", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 243, 
+      "target": 277, 
+      "value": 1, 
+      "tags": [
+        "#p2", 
+        "#tcot"
+      ]
+    }, 
+    {
+      "source": 245, 
+      "target": 143, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot", 
+        "#teaparty", 
+        "#twisters", 
+        "#ocra", 
+        "#sgp", 
+        "#november"
+      ]
+    }, 
+    {
+      "source": 246, 
+      "target": 508, 
+      "value": 1, 
+      "tags": [
+        "#iran", 
+        "#iranelection", 
+        "#p2", 
+        "#tcot", 
+        "#obama", 
+        "#politics"
+      ]
+    }, 
+    {
+      "source": 252, 
+      "target": 545, 
+      "value": 1, 
+      "tags": [
+        "#gop", 
+        "#tcot", 
+        "#teaparty", 
+        "#sgp", 
+        "#ocra"
+      ]
+    }, 
+    {
+      "source": 253, 
+      "target": 390, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot", 
+        "#tea"
+      ]
+    }, 
+    {
+      "source": 257, 
+      "target": 505, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 259, 
+      "target": 357, 
+      "value": 1, 
+      "tags": [
+        "#noh8", 
+        "#dadt", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "source": 260, 
+      "target": 414, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 261, 
+      "target": 482, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#gowest", 
+        "#fl22"
+      ]
+    }, 
+    {
+      "source": 262, 
+      "target": 333, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 265, 
+      "target": 430, 
+      "value": 1, 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 266, 
+      "target": 222, 
+      "value": 1, 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 267, 
+      "target": 271, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#constitution", 
+        "#neocon"
+      ]
+    }, 
+    {
+      "source": 269, 
+      "target": 533, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 270, 
+      "target": 194, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#orca", 
+        "#tpp", 
+        "#michellemalkin", 
+        "#nu"
+      ]
+    }, 
+    {
+      "source": 272, 
+      "target": 449, 
+      "value": 1, 
+      "tags": [
+        "#delaware", 
+        "#desen", 
+        "#de", 
+        "#teaparty", 
+        "#ne"
+      ]
+    }, 
+    {
+      "source": 272, 
+      "target": 604, 
+      "value": 1, 
+      "tags": [
+        "#wvsen", 
+        "#desen", 
+        "#casen", 
+        "#tcot"
+      ]
+    }, 
+    {
+      "source": 274, 
+      "target": 462, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 276, 
+      "target": 604, 
+      "value": 1, 
+      "tags": [
+        "#p2", 
+        "#tcot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 284, 
+      "target": 580, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 284, 
+      "target": 199, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 284, 
+      "target": 204, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 284, 
+      "target": 280, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 284, 
+      "target": 94, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 284, 
+      "target": 438, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 284, 
+      "target": 632, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 284, 
+      "target": 516, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 284, 
+      "target": 122, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 284, 
+      "target": 158, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 286, 
+      "target": 600, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 288, 
+      "target": 111, 
+      "value": 1, 
+      "tags": [
+        "#palin", 
+        "#tcot"
+      ]
+    }, 
+    {
+      "source": 289, 
+      "target": 157, 
+      "value": 1, 
+      "tags": [
+        "#palin", 
+        "#p2", 
+        "#teaparty", 
+        "#tcot", 
+        "#je"
+      ]
+    }, 
+    {
+      "source": 290, 
+      "target": 123, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#ocra", 
+        "#teaparty", 
+        "#icon"
+      ]
+    }, 
+    {
+      "source": 294, 
+      "target": 55, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#ocra", 
+        "#tweetcongress", 
+        "#p2", 
+        "#tp"
+      ]
+    }, 
+    {
+      "source": 295, 
+      "target": 85, 
+      "value": 1, 
+      "tags": [
+        "#obama", 
+        "#palin"
+      ]
+    }, 
+    {
+      "source": 296, 
+      "target": 574, 
+      "value": 1, 
+      "tags": [
+        "#p2", 
+        "#tcot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 302, 
+      "target": 415, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 308, 
+      "target": 406, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tweetcongress", 
+        "#sgp", 
+        "#oba"
+      ]
+    }, 
+    {
+      "source": 310, 
+      "target": 319, 
+      "value": 1, 
+      "tags": [
+        "#woc", 
+        "#gotv", 
+        "#obama", 
+        "#dems"
+      ]
+    }, 
+    {
+      "source": 314, 
+      "target": 301, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot", 
+        "#sgp", 
+        "#ocra", 
+        "#teaparty", 
+        "#tpp", 
+        "#twisters", 
+        "#phnm", 
+        "#i"
+      ]
+    }, 
+    {
+      "source": 315, 
+      "target": 79, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#teaparty", 
+        "#usa", 
+        "#doj", 
+        "#naacp", 
+        "#seiu", 
+        "#theview", 
+        "#cnn", 
+        "#op"
+      ]
+    }, 
+    {
+      "source": 317, 
+      "target": 200, 
+      "value": 1, 
+      "tags": [
+        "#p2", 
+        "#tcot", 
+        "#teaparty", 
+        "#pasen"
+      ]
+    }, 
+    {
+      "source": 318, 
+      "target": 616, 
+      "value": 1, 
+      "tags": [
+        "#dadt", 
+        "#noh8", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "source": 318, 
+      "target": 592, 
+      "value": 1, 
+      "tags": [
+        "#dadt", 
+        "#noh8", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "source": 318, 
+      "target": 610, 
+      "value": 1, 
+      "tags": [
+        "#noh8", 
+        "#dadt", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "source": 318, 
+      "target": 18, 
+      "value": 1, 
+      "tags": [
+        "#dadt", 
+        "#noh8"
+      ]
+    }, 
+    {
+      "source": 318, 
+      "target": 461, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 320, 
+      "target": 294, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#tcot"
+      ]
+    }, 
+    {
+      "source": 321, 
+      "target": 388, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 324, 
+      "target": 604, 
+      "value": 1, 
+      "tags": [
+        "#tlot", 
+        "#p2", 
+        "#dems", 
+        "#gop"
+      ]
+    }, 
+    {
+      "source": 324, 
+      "target": 380, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot", 
+        "#p2", 
+        "#dems", 
+        "#gop"
+      ]
+    }, 
+    {
+      "source": 326, 
+      "target": 614, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#ocra", 
+        "#teaparty", 
+        "#iamthemo"
+      ]
+    }, 
+    {
+      "source": 327, 
+      "target": 227, 
+      "value": 1, 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "source": 328, 
+      "target": 254, 
+      "value": 1, 
+      "tags": [
+        "#lgbt", 
+        "#nygov", 
+        "#p2", 
+        "#paladino"
+      ]
+    }, 
+    {
+      "source": 330, 
+      "target": 473, 
+      "value": 1, 
+      "tags": [
+        "#obama", 
+        "#bp"
+      ]
+    }, 
+    {
+      "source": 331, 
+      "target": 169, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#p2", 
+        "#p21", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 331, 
+      "target": 561, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 335, 
+      "target": 63, 
+      "value": 1, 
+      "tags": [
+        "#cspj", 
+        "#tlot", 
+        "#news", 
+        "#teaparty", 
+        "#fail"
+      ]
+    }, 
+    {
+      "source": 336, 
+      "target": 76, 
+      "value": 1, 
+      "tags": [
+        "#remember", 
+        "#ayers", 
+        "#obama"
+      ]
+    }, 
+    {
+      "source": 339, 
+      "target": 524, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#tcot"
+      ]
+    }, 
+    {
+      "source": 340, 
+      "target": 306, 
+      "value": 1, 
+      "tags": [
+        "#dadt", 
+        "#mattbobbykiss"
+      ]
+    }, 
+    {
+      "source": 342, 
+      "target": 258, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "source": 343, 
+      "target": 40, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#tcot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "source": 344, 
+      "target": 264, 
+      "value": 1, 
+      "tags": [
+        "#votedem"
+      ]
+    }, 
+    {
+      "source": 345, 
+      "target": 601, 
+      "value": 1, 
+      "tags": [
+        "#p2", 
+        "#tcot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 351, 
+      "target": 92, 
+      "value": 1, 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 353, 
+      "target": 613, 
+      "value": 1, 
+      "tags": [
+        "#afire", 
+        "#tcot", 
+        "#teaparty", 
+        "#immi"
+      ]
+    }, 
+    {
+      "source": 354, 
+      "target": 131, 
+      "value": 1, 
+      "tags": [
+        "#obama", 
+        "#ahmedinejad"
+      ]
+    }, 
+    {
+      "source": 356, 
+      "target": 432, 
+      "value": 1, 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 356, 
+      "target": 486, 
+      "value": 1, 
+      "tags": [
+        "#rove", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 358, 
+      "target": 633, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#politics", 
+        "#tpp", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "source": 360, 
+      "target": 121, 
+      "value": 1, 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "source": 360, 
+      "target": 447, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#rs"
+      ]
+    }, 
+    {
+      "source": 361, 
+      "target": 520, 
+      "value": 1, 
+      "tags": [
+        "#votedem", 
+        "#pasadenadems"
+      ]
+    }, 
+    {
+      "source": 362, 
+      "target": 467, 
+      "value": 1, 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "source": 363, 
+      "target": 43, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#usarmy"
+      ]
+    }, 
+    {
+      "source": 364, 
+      "target": 78, 
+      "value": 1, 
+      "tags": [
+        "#cnn", 
+        "#teaparty", 
+        "#foxnews"
+      ]
+    }, 
+    {
+      "source": 365, 
+      "target": 456, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 366, 
+      "target": 39, 
+      "value": 1, 
+      "tags": [
+        "#yal", 
+        "#c4l", 
+        "#tcot", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "source": 368, 
+      "target": 584, 
+      "value": 1, 
+      "tags": [
+        "#americanexceptionalism", 
+        "#obamamedia", 
+        "#obamacare", 
+        "#obama", 
+        "#regime", 
+        "#congress"
+      ]
+    }, 
+    {
+      "source": 370, 
+      "target": 117, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "source": 371, 
+      "target": 587, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#desen", 
+        "#wdel", 
+        "#tcot", 
+        "#senate", 
+        "#race", 
+        "#delaware"
+      ]
+    }, 
+    {
+      "source": 372, 
+      "target": 132, 
+      "value": 1, 
+      "tags": [
+        "#p2", 
+        "#p2b", 
+        "#obama"
+      ]
+    }, 
+    {
+      "source": 373, 
+      "target": 215, 
+      "value": 1, 
+      "tags": [
+        "#p2", 
+        "#tcot", 
+        "#phnm", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "source": 374, 
+      "target": 160, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#patriottweets"
+      ]
+    }, 
+    {
+      "source": 375, 
+      "target": 281, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#teaparty", 
+        "#sgp", 
+        "#p2", 
+        "#politicalhumor"
+      ]
+    }, 
+    {
+      "source": 375, 
+      "target": 493, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#teaparty", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 378, 
+      "target": 116, 
+      "value": 1, 
+      "tags": [
+        "#dadt", 
+        "#p2", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "source": 378, 
+      "target": 116, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 379, 
+      "target": 87, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#timetogetpirate", 
+        "#tcot"
+      ]
+    }, 
+    {
+      "source": 383, 
+      "target": 279, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#teaparty", 
+        "#hatrio"
+      ]
+    }, 
+    {
+      "source": 386, 
+      "target": 57, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#tcot", 
+        "#gop", 
+        "#pelosi", 
+        "#obama"
+      ]
+    }, 
+    {
+      "source": 389, 
+      "target": 573, 
+      "value": 1, 
+      "tags": [
+        "#worsethanwitchcraft", 
+        "#tcot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 392, 
+      "target": 6, 
+      "value": 1, 
+      "tags": [
+        "#whyimvotingdemocrat", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "source": 393, 
+      "target": 333, 
+      "value": 1, 
+      "tags": [
+        "#p2", 
+        "#tcot", 
+        "#tlot", 
+        "#nowar"
+      ]
+    }, 
+    {
+      "source": 396, 
+      "target": 322, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 396, 
+      "target": 535, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 398, 
+      "target": 299, 
+      "value": 1, 
+      "tags": [
+        "#p2", 
+        "#dems", 
+        "#tcot", 
+        "#tlot", 
+        "#wc", 
+        "#ocra", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 398, 
+      "target": 172, 
+      "value": 1, 
+      "tags": [
+        "#p2", 
+        "#dems", 
+        "#tcot", 
+        "#wc", 
+        "#tlot", 
+        "#teapart"
+      ]
+    }, 
+    {
+      "source": 401, 
+      "target": 376, 
+      "value": 1, 
+      "tags": [
+        "#desen", 
+        "#tcot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 401, 
+      "target": 405, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#teaparty", 
+        "#icot", 
+        "#vote2010"
+      ]
+    }, 
+    {
+      "source": 402, 
+      "target": 421, 
+      "value": 1, 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 409, 
+      "target": 579, 
+      "value": 1, 
+      "tags": [
+        "#votedem"
+      ]
+    }, 
+    {
+      "source": 413, 
+      "target": 130, 
+      "value": 1, 
+      "tags": [
+        "#obama", 
+        "#kitzhaber", 
+        "#kitzrally"
+      ]
+    }, 
+    {
+      "source": 416, 
+      "target": 359, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#sgp", 
+        "#sgs", 
+        "#te"
+      ]
+    }, 
+    {
+      "source": 418, 
+      "target": 475, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#teaparty", 
+        "#p2", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "source": 422, 
+      "target": 347, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#race", 
+        "#blackness"
+      ]
+    }, 
+    {
+      "source": 423, 
+      "target": 118, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#teaparty", 
+        "#sgp", 
+        "#p2", 
+        "#politicalhumor"
+      ]
+    }, 
+    {
+      "source": 425, 
+      "target": 5, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#912", 
+        "#teaparty", 
+        "#gop", 
+        "#dnc", 
+        "#vote2010", 
+        "#tlot", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 428, 
+      "target": 281, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "source": 428, 
+      "target": 258, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#sgp", 
+        "#hcr"
+      ]
+    }, 
+    {
+      "source": 431, 
+      "target": 11, 
+      "value": 1, 
+      "tags": [
+        "#reid", 
+        "#p2", 
+        "#obamacare", 
+        "#nv", 
+        "#teaparty", 
+        "#hc", 
+        "#hir", 
+        "#hcr", 
+        "#nvsen", 
+        "#ca", 
+        "#ca"
+      ]
+    }, 
+    {
+      "source": 435, 
+      "target": 441, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 435, 
+      "target": 594, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 435, 
+      "target": 417, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 443, 
+      "target": 552, 
+      "value": 1, 
+      "tags": [
+        "#p2", 
+        "#lgbt", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 443, 
+      "target": 575, 
+      "value": 1, 
+      "tags": [
+        "#obama", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 446, 
+      "target": 405, 
+      "value": 1, 
+      "tags": [
+        "#p2", 
+        "#tcot", 
+        "#sgp", 
+        "#tlot", 
+        "#ocra", 
+        "#twisters", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 446, 
+      "target": 399, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 448, 
+      "target": 4, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 452, 
+      "target": 253, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "source": 455, 
+      "target": 518, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#gop", 
+        "#ftrs", 
+        "#hhrs", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "source": 455, 
+      "target": 198, 
+      "value": 1, 
+      "tags": [
+        "#tweetcongress", 
+        "#tcot", 
+        "#gop", 
+        "#ftrs", 
+        "#hhrs", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "source": 455, 
+      "target": 334, 
+      "value": 1, 
+      "tags": [
+        "#gop", 
+        "#tcot", 
+        "#go"
+      ]
+    }, 
+    {
+      "source": 455, 
+      "target": 48, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#gop"
+      ]
+    }, 
+    {
+      "source": 455, 
+      "target": 209, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#sgp", 
+        "#military", 
+        "#watchdog", 
+        "#ulie", 
+        "#twee"
+      ]
+    }, 
+    {
+      "source": 455, 
+      "target": 282, 
+      "value": 1, 
+      "tags": [
+        "#tweetcongress", 
+        "#tcot", 
+        "#gop", 
+        "#ftrs", 
+        "#hhrs", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "source": 455, 
+      "target": 411, 
+      "value": 1, 
+      "tags": [
+        "#tweetcongress", 
+        "#tcot", 
+        "#gop", 
+        "#ft"
+      ]
+    }, 
+    {
+      "source": 455, 
+      "target": 446, 
+      "value": 1, 
+      "tags": [
+        "#tweetcongress", 
+        "#tcot", 
+        "#gop", 
+        "#ftrs"
+      ]
+    }, 
+    {
+      "source": 457, 
+      "target": 48, 
+      "value": 1, 
+      "tags": [
+        "#dempledge2usa", 
+        "#ocra", 
+        "#tcot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 464, 
+      "target": 54, 
+      "value": 1, 
+      "tags": [
+        "#p2", 
+        "#lgbt", 
+        "#dadt", 
+        "#tlot", 
+        "#topprog"
+      ]
+    }, 
+    {
+      "source": 466, 
+      "target": 369, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 470, 
+      "target": 521, 
+      "value": 1, 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 470, 
+      "target": 101, 
+      "value": 1, 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 472, 
+      "target": 248, 
+      "value": 1, 
+      "tags": [
+        "#p2", 
+        "#p2b"
+      ]
+    }, 
+    {
+      "source": 472, 
+      "target": 231, 
+      "value": 1, 
+      "tags": [
+        "#p2", 
+        "#tcot", 
+        "#seriously"
+      ]
+    }, 
+    {
+      "source": 474, 
+      "target": 385, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot", 
+        "#tea"
+      ]
+    }, 
+    {
+      "source": 474, 
+      "target": 166, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot", 
+        "#teaparty", 
+        "#sgp", 
+        "#gop"
+      ]
+    }, 
+    {
+      "source": 474, 
+      "target": 553, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot", 
+        "#teaparty", 
+        "#gop"
+      ]
+    }, 
+    {
+      "source": 474, 
+      "target": 202, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot", 
+        "#teaparty", 
+        "#sgp", 
+        "#gop"
+      ]
+    }, 
+    {
+      "source": 474, 
+      "target": 213, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot", 
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "source": 474, 
+      "target": 298, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot", 
+        "#teaparty", 
+        "#sgp", 
+        "#gop"
+      ]
+    }, 
+    {
+      "source": 476, 
+      "target": 503, 
+      "value": 1, 
+      "tags": [
+        "#obama", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 477, 
+      "target": 394, 
+      "value": 1, 
+      "tags": [
+        "#sgp", 
+        "#tcot", 
+        "#a4a", 
+        "#shar"
+      ]
+    }, 
+    {
+      "source": 477, 
+      "target": 268, 
+      "value": 1, 
+      "tags": [
+        "#mil", 
+        "#usmc", 
+        "#tlot", 
+        "#hhrs", 
+        "#sharia", 
+        "#jihad"
+      ]
+    }, 
+    {
+      "source": 481, 
+      "target": 376, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#teaparty", 
+        "#sgp", 
+        "#p2", 
+        "#politicalhumor"
+      ]
+    }, 
+    {
+      "source": 484, 
+      "target": 275, 
+      "value": 1, 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 484, 
+      "target": 511, 
+      "value": 1, 
+      "tags": [
+        "#germany", 
+        "#tcot", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "source": 485, 
+      "target": 176, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#ngzm"
+      ]
+    }, 
+    {
+      "source": 487, 
+      "target": 250, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#p2", 
+        "#p21", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "source": 488, 
+      "target": 196, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 490, 
+      "target": 109, 
+      "value": 1, 
+      "tags": [
+        "#votedem"
+      ]
+    }, 
+    {
+      "source": 491, 
+      "target": 376, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#news", 
+        "#teaparty", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 500, 
+      "target": 349, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#p2", 
+        "#teaparty", 
+        "#hhrs", 
+        "#twisters"
+      ]
+    }, 
+    {
+      "source": 502, 
+      "target": 355, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#ocra", 
+        "#teaparty", 
+        "#sgp", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "source": 507, 
+      "target": 426, 
+      "value": 1, 
+      "tags": [
+        "#taxes", 
+        "#debt", 
+        "#tcot", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "source": 509, 
+      "target": 187, 
+      "value": 1, 
+      "tags": [
+        "#florida", 
+        "#tcot", 
+        "#sgp", 
+        "#tlot", 
+        "#nra"
+      ]
+    }, 
+    {
+      "source": 510, 
+      "target": 245, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#ocra", 
+        "#sgp", 
+        "#teaparty", 
+        "#twisters", 
+        "#ampat", 
+        "#palin", 
+        "#beck", 
+        "#tpp", 
+        "#mo"
+      ]
+    }, 
+    {
+      "source": 510, 
+      "target": 187, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#ocra", 
+        "#sgp", 
+        "#teaparty", 
+        "#twis"
+      ]
+    }, 
+    {
+      "source": 510, 
+      "target": 445, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#ocra", 
+        "#sgp", 
+        "#teaparty", 
+        "#twisters", 
+        "#ampat", 
+        "#tlo"
+      ]
+    }, 
+    {
+      "source": 510, 
+      "target": 150, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#ocra", 
+        "#sgp", 
+        "#teaparty", 
+        "#twisters", 
+        "#hcr", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "source": 510, 
+      "target": 367, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#ocra", 
+        "#desen", 
+        "#912", 
+        "#twisters", 
+        "#mob", 
+        "#tcot", 
+        "#sgp", 
+        "#cspj", 
+        "#h"
+      ]
+    }, 
+    {
+      "source": 512, 
+      "target": 412, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#teaparty", 
+        "#sgp", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 515, 
+      "target": 480, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#ocr"
+      ]
+    }, 
+    {
+      "source": 515, 
+      "target": 547, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#ocra", 
+        "#sgp", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 515, 
+      "target": 292, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#ocra", 
+        "#sgp", 
+        "#p2", 
+        "#tlot", 
+        "#economy", 
+        "#phnm"
+      ]
+    }, 
+    {
+      "source": 515, 
+      "target": 585, 
+      "value": 1, 
+      "tags": [
+        "#tcot"
+      ]
+    }, 
+    {
+      "source": 515, 
+      "target": 210, 
+      "value": 1, 
+      "tags": [
+        "#imaradical", 
+        "#tcot", 
+        "#ocra", 
+        "#sgp", 
+        "#tlot", 
+        "#teaparty", 
+        "#phnm"
+      ]
+    }, 
+    {
+      "source": 515, 
+      "target": 22, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#ocra", 
+        "#sgp", 
+        "#p2", 
+        "#economy", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "source": 515, 
+      "target": 536, 
+      "value": 1, 
+      "tags": [
+        "#tcot"
+      ]
+    }, 
+    {
+      "source": 515, 
+      "target": 377, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#ocra", 
+        "#p2", 
+        "#tlot", 
+        "#t"
+      ]
+    }, 
+    {
+      "source": 515, 
+      "target": 412, 
+      "value": 1, 
+      "tags": [
+        "#onenation", 
+        "#tcot", 
+        "#p2", 
+        "#ocra", 
+        "#sgp", 
+        "#megafail", 
+        "#morons", 
+        "#losers", 
+        "#co"
+      ]
+    }, 
+    {
+      "source": 515, 
+      "target": 539, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#ocra", 
+        "#sgp", 
+        "#p2", 
+        "#tlot", 
+        "#eco"
+      ]
+    }, 
+    {
+      "source": 515, 
+      "target": 316, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#p2", 
+        "#ocra", 
+        "#sgp", 
+        "#tlot", 
+        "#phnm", 
+        "#economy"
+      ]
+    }, 
+    {
+      "source": 517, 
+      "target": 154, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "source": 519, 
+      "target": 297, 
+      "value": 1, 
+      "tags": [
+        "#rally4sanity", 
+        "#teaparty", 
+        "#tcot"
+      ]
+    }, 
+    {
+      "source": 522, 
+      "target": 208, 
+      "value": 1, 
+      "tags": [
+        "#obama", 
+        "#fox", 
+        "#news"
+      ]
+    }, 
+    {
+      "source": 526, 
+      "target": 135, 
+      "value": 1, 
+      "tags": [
+        "#usa", 
+        "#cia", 
+        "#iraq", 
+        "#cuba", 
+        "#eeuu", 
+        "#obama", 
+        "#pakistan", 
+        "#afganistan"
+      ]
+    }, 
+    {
+      "source": 527, 
+      "target": 15, 
+      "value": 1, 
+      "tags": [
+        "#lgbt", 
+        "#dadt", 
+        "#p2", 
+        "#tcot", 
+        "#collins", 
+        "#snowe"
+      ]
+    }, 
+    {
+      "source": 529, 
+      "target": 337, 
+      "value": 1, 
+      "tags": [
+        "#lgbt", 
+        "#gay", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 530, 
+      "target": 437, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#teaparty", 
+        "#p2", 
+        "#sgp", 
+        "#news", 
+        "#qsn"
+      ]
+    }, 
+    {
+      "source": 531, 
+      "target": 628, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#teaparty", 
+        "#gop", 
+        "#democrat"
+      ]
+    }, 
+    {
+      "source": 534, 
+      "target": 608, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#teaparty", 
+        "#sgp"
+      ]
+    }, 
+    {
+      "source": 534, 
+      "target": 233, 
+      "value": 1, 
+      "tags": [
+        "#coica", 
+        "#censorship", 
+        "#tcot", 
+        "#p2", 
+        "#tlo"
+      ]
+    }, 
+    {
+      "source": 537, 
+      "target": 313, 
+      "value": 1, 
+      "tags": [
+        "#p2", 
+        "#dems", 
+        "#tcot", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "source": 541, 
+      "target": 629, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 542, 
+      "target": 582, 
+      "value": 1, 
+      "tags": [
+        "#aarp", 
+        "#foxnews", 
+        "#fox", 
+        "#tcot", 
+        "#tlot", 
+        "#twister"
+      ]
+    }, 
+    {
+      "source": 543, 
+      "target": 138, 
+      "value": 1, 
+      "tags": [
+        "#p2", 
+        "#dadt", 
+        "#ladygag"
+      ]
+    }, 
+    {
+      "source": 544, 
+      "target": 463, 
+      "value": 1, 
+      "tags": [
+        "#economist", 
+        "#teaparty", 
+        "#populism"
+      ]
+    }, 
+    {
+      "source": 546, 
+      "target": 107, 
+      "value": 1, 
+      "tags": [
+        "#sarah", 
+        "#palin12", 
+        "#gop", 
+        "#scot", 
+        "#obama", 
+        "#tcot"
+      ]
+    }, 
+    {
+      "source": 550, 
+      "target": 71, 
+      "value": 1, 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "source": 551, 
+      "target": 231, 
+      "value": 1, 
+      "tags": [
+        "#glennbeckmovies", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 555, 
+      "target": 12, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#teaparty", 
+        "#tx17", 
+        "#texas"
+      ]
+    }, 
+    {
+      "source": 557, 
+      "target": 454, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#teaparty", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 558, 
+      "target": 190, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#accdf", 
+        "#gop", 
+        "#twisters", 
+        "#teaparty", 
+        "#iamthemob"
+      ]
+    }, 
+    {
+      "source": 558, 
+      "target": 439, 
+      "value": 1, 
+      "tags": [
+        "#obama", 
+        "#gm"
+      ]
+    }, 
+    {
+      "source": 559, 
+      "target": 112, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "source": 559, 
+      "target": 602, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "source": 564, 
+      "target": 133, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#sgp", 
+        "#ocra", 
+        "#tlot", 
+        "#gop"
+      ]
+    }, 
+    {
+      "source": 565, 
+      "target": 405, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 566, 
+      "target": 303, 
+      "value": 1, 
+      "tags": [
+        "#sharia", 
+        "#tcot", 
+        "#tlot", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 567, 
+      "target": 80, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#gop", 
+        "#teaparty", 
+        "#cleanhouse"
+      ]
+    }, 
+    {
+      "source": 568, 
+      "target": 384, 
+      "value": 1, 
+      "tags": [
+        "#london", 
+        "#uk", 
+        "#tcot", 
+        "#tlot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 569, 
+      "target": 538, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#ocra", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 571, 
+      "target": 620, 
+      "value": 1, 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 572, 
+      "target": 251, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#congress", 
+        "#economy"
+      ]
+    }, 
+    {
+      "source": 576, 
+      "target": 532, 
+      "value": 1, 
+      "tags": [
+        "#whatsongather", 
+        "#swgather", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 578, 
+      "target": 312, 
+      "value": 1, 
+      "tags": [
+        "#barneybomb", 
+        "#tcot", 
+        "#twisters", 
+        "#ma04"
+      ]
+    }, 
+    {
+      "source": 581, 
+      "target": 495, 
+      "value": 1, 
+      "tags": [
+        "#foxnews", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 589, 
+      "target": 256, 
+      "value": 1, 
+      "tags": [
+        "#dadt", 
+        "#lgbt"
+      ]
+    }, 
+    {
+      "source": 589, 
+      "target": 9, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 591, 
+      "target": 494, 
+      "value": 1, 
+      "tags": [
+        "#p2", 
+        "#dems", 
+        "#tcot", 
+        "#tlot", 
+        "#wc", 
+        "#ocra", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 593, 
+      "target": 513, 
+      "value": 1, 
+      "tags": [
+        "#p2", 
+        "#tcot", 
+        "#ocra", 
+        "#teaparty", 
+        "#twister"
+      ]
+    }, 
+    {
+      "source": 595, 
+      "target": 273, 
+      "value": 1, 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 596, 
+      "target": 180, 
+      "value": 1, 
+      "tags": [
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 598, 
+      "target": 588, 
+      "value": 1, 
+      "tags": [
+        "#obamaachievements", 
+        "#tcot", 
+        "#tlot", 
+        "#ocra", 
+        "#teaparty", 
+        "#912"
+      ]
+    }, 
+    {
+      "source": 598, 
+      "target": 407, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot", 
+        "#ocra", 
+        "#912", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 599, 
+      "target": 592, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 599, 
+      "target": 352, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 599, 
+      "target": 586, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 599, 
+      "target": 525, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 604, 
+      "target": 498, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 605, 
+      "target": 346, 
+      "value": 1, 
+      "tags": [
+        "#ad78", 
+        "#gop", 
+        "#tcot", 
+        "#tpp", 
+        "#sgp", 
+        "#ocra"
+      ]
+    }, 
+    {
+      "source": 607, 
+      "target": 311, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 621, 
+      "target": 540, 
+      "value": 1, 
+      "tags": [
+        "#obama", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 623, 
+      "target": 240, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#teaparty", 
+        "#twisters", 
+        "#gl"
+      ]
+    }, 
+    {
+      "source": 624, 
+      "target": 391, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#tcot", 
+        "#s"
+      ]
+    }, 
+    {
+      "source": 629, 
+      "target": 130, 
+      "value": 1, 
+      "tags": [
+        "#pa16", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "source": 630, 
+      "target": 255, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#teaparty", 
+        "#king", 
+        "#christia"
+      ]
+    }, 
+    {
+      "source": 631, 
+      "target": 102, 
+      "value": 1, 
+      "tags": [
+        "#tlot", 
+        "#tcot", 
+        "#ocra", 
+        "#hhrs", 
+        "#a4a", 
+        "#s"
+      ]
+    }, 
+    {
+      "source": 636, 
+      "target": 577, 
+      "value": 1, 
+      "tags": [
+        "#p2", 
+        "#tcot", 
+        "#topprog", 
+        "#votedem", 
+        "#p21", 
+        "#ff"
+      ]
+    }, 
+    {
+      "source": 636, 
+      "target": 514, 
+      "value": 1, 
+      "tags": [
+        "#votedem", 
+        "#p2", 
+        "#topprog"
+      ]
+    }, 
+    {
+      "source": 636, 
+      "target": 387, 
+      "value": 1, 
+      "tags": [
+        "#kysen", 
+        "#p2", 
+        "#tcot"
+      ]
+    }, 
+    {
+      "source": 636, 
+      "target": 293, 
+      "value": 1, 
+      "tags": [
+        "#mn06", 
+        "#p2", 
+        "#tcot"
+      ]
+    }, 
+    {
+      "source": 636, 
+      "target": 136, 
+      "value": 1, 
+      "tags": [
+        "#fl08", 
+        "#gotv", 
+        "#votedem", 
+        "#p2", 
+        "#topprog", 
+        "#florida", 
+        "#fl"
+      ]
+    }, 
+    {
+      "source": 636, 
+      "target": 110, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#p2", 
+        "#tcot", 
+        "#topprog", 
+        "#hcr", 
+        "#gotv", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "source": 636, 
+      "target": 16, 
+      "value": 1, 
+      "tags": [
+        "#jobs", 
+        "#p2", 
+        "#p21", 
+        "#tcot", 
+        "#teaparty", 
+        "#topprog", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "source": 636, 
+      "target": 626, 
+      "value": 1, 
+      "tags": [
+        "#whyimvotingdemocrat"
+      ]
+    }, 
+    {
+      "source": 636, 
+      "target": 341, 
+      "value": 1, 
+      "tags": [
+        "#hcr", 
+        "#p2", 
+        "#tcot", 
+        "#teaparty", 
+        "#p21"
+      ]
+    }, 
+    {
+      "source": 636, 
+      "target": 635, 
+      "value": 1, 
+      "tags": [
+        "#p2", 
+        "#p21", 
+        "#topprog", 
+        "#tcot", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "source": 636, 
+      "target": 606, 
+      "value": 1, 
+      "tags": [
+        "#kysen", 
+        "#p2", 
+        "#tcot", 
+        "#topprog", 
+        "#votedem", 
+        "#gotv"
+      ]
+    }, 
+    {
+      "source": 636, 
+      "target": 478, 
+      "value": 1, 
+      "tags": [
+        "#p2", 
+        "#p21", 
+        "#topprog", 
+        "#votedem"
+      ]
+    }, 
+    {
+      "source": 636, 
+      "target": 95, 
+      "value": 1, 
+      "tags": [
+        "#azgov", 
+        "#p2"
+      ]
+    }, 
+    {
+      "source": 637, 
+      "target": 34, 
+      "value": 1, 
+      "tags": [
+        "#p2", 
+        "#votedem", 
+        "#hcr"
+      ]
+    }, 
+    {
+      "source": 638, 
+      "target": 450, 
+      "value": 1, 
+      "tags": [
+        "#obama"
+      ]
+    }, 
+    {
+      "source": 638, 
+      "target": 42, 
+      "value": 1, 
+      "tags": [
+        "#obama", 
+        "#jobs"
+      ]
+    }, 
+    {
+      "source": 639, 
+      "target": 427, 
+      "value": 1, 
+      "tags": [
+        "#gaza", 
+        "#tcot", 
+        "#tlot", 
+        "#israel"
+      ]
+    }, 
+    {
+      "source": 640, 
+      "target": 173, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 641, 
+      "target": 291, 
+      "value": 1, 
+      "tags": [
+        "#gop", 
+        "#teaparty", 
+        "#p2", 
+        "#tcot", 
+        "#ff", 
+        "#tlot", 
+        "#democr"
+      ]
+    }, 
+    {
+      "source": 641, 
+      "target": 174, 
+      "value": 1, 
+      "tags": [
+        "#gop", 
+        "#teaparty", 
+        "#p2", 
+        "#tcot"
+      ]
+    }, 
+    {
+      "source": 642, 
+      "target": 479, 
+      "value": 1, 
+      "tags": [
+        "#lgbt", 
+        "#dadt"
+      ]
+    }, 
+    {
+      "source": 643, 
+      "target": 193, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "source": 643, 
+      "target": 323, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "source": 643, 
+      "target": 70, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "source": 643, 
+      "target": 554, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "source": 643, 
+      "target": 300, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "source": 643, 
+      "target": 504, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "source": 643, 
+      "target": 444, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#tlot"
+      ]
+    }, 
+    {
+      "source": 645, 
+      "target": 440, 
+      "value": 1, 
+      "tags": [
+        "#p2", 
+        "#ofa"
+      ]
+    }, 
+    {
+      "source": 647, 
+      "target": 400, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#ocra", 
+        "#icon", 
+        "#teaparty", 
+        "#women", 
+        "#moms"
+      ]
+    }, 
+    {
+      "source": 647, 
+      "target": 304, 
+      "value": 1, 
+      "tags": [
+        "#moms", 
+        "#teaparty", 
+        "#smallbusinessowners"
+      ]
+    }, 
+    {
+      "source": 647, 
+      "target": 307, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#michigan", 
+        "#ocra", 
+        "#icon", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 647, 
+      "target": 644, 
+      "value": 1, 
+      "tags": [
+        "#tcot", 
+        "#ocra", 
+        "#prolife", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 648, 
+      "target": 410, 
+      "value": 1, 
+      "tags": [
+        "#p2", 
+        "#tcot", 
+        "#dems", 
+        "#gop"
+      ]
+    }, 
+    {
+      "source": 648, 
+      "target": 179, 
+      "value": 1, 
+      "tags": [
+        "#p2", 
+        "#tcot", 
+        "#gop", 
+        "#dems"
+      ]
+    }, 
+    {
+      "source": 649, 
+      "target": 28, 
+      "value": 1, 
+      "tags": [
+        "#teaparty", 
+        "#tcot", 
+        "#tlot", 
+        "#sgp", 
+        "#p2", 
+        "#teaparty", 
+        "#patriot"
+      ]
+    }, 
+    {
+      "source": 650, 
+      "target": 8, 
+      "value": 1, 
+      "tags": [
+        "#gop", 
+        "#p2", 
+        "#tcot", 
+        "#teaparty"
+      ]
+    }, 
+    {
+      "source": 652, 
+      "target": 615, 
+      "value": 1, 
+      "tags": [
+        "#dadt"
+      ]
+    }
+  ]
+}

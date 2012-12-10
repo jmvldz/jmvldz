@@ -17,6 +17,10 @@ app.config.from_object(__name__)
 def show_index():
     return render_template('index.html')
 
+@app.route('/mind')
+def show_vis():
+    return render_template('retweet_network.html')
+
 # main
 if __name__ == '__main__':
     app.run()
