@@ -294,7 +294,7 @@ span.logotext {
 
 #intro {
 	background: url(../images/intro_bg2.jpg) fixed;
-	height: 560px;
+	height: 500px;
 }
 
 .title {
@@ -362,7 +362,7 @@ span.cursive {
 #services {
 	position: relative;
 	background: #fff;
-	margin-top: -50px;
+	margin-top: -1px;
 	padding-bottom: 70px;
 }
 
