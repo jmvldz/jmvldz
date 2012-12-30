@@ -2,13 +2,14 @@
 # written by Josh Valdez
 
 # imports
-import os, stripe
+import stripe
 from flask import Flask, request, render_template
 
 # config
 DEBUG = True
 PUBLISHABLE_KEY = 'pk_foo'
 SECRET_KEY = 'sk_bar'
+COMPANY = {'name': 'Joshua Miles Valdez'}
 
 # stripe config
 #stripe_keys = {
@@ -27,6 +28,10 @@ stripe.api_key = stripe_keys['secret_key']
 app = Flask(__name__)
 app.config.from_object(__name__)
 
+# helper functions
+def cents(amount):
+    return amount + '00'
+
 # routes
 @app.route('/')
 def show_index():
@@ -36,24 +41,27 @@ def show_index():
 def show_vis():
     return render_template('retweet_network.html')
 
-@app.route('/payment')
+@app.route('/stoller')
 def payment():
-    return render_template('payment.html', key=stripe_keys['publishable_key'])
+    amount = '250'
+    client = {'name': 'Elliot', 'amount': amount, 'cents': cents(amount),
+              'description': 'Amends Website Upgrade'}
+    return render_template('payment.html', key =stripe_keys['publishable_key'],
+                           client = client, company = COMPANY)
 
-@app.route('/charge', methods=['POST'])
+@app.route('/charge')
 def charge():
-    # amount in cents
-    amount = 500
+    amount = int(request.form['data-amount'])
 
     customer = stripe.Customer.create(
-        email = 'customer@example.com',
+        email = 'stoller@stanford.edu',
         card = request.form['stripeToken'])
 
     charge = stripe.Charge.create(
         customer = customer.id,
         amount = amount,
         currency = 'usd',
-        description = 'Flask Charge')
+        description = request.form['data-description'])
 
     return render_template('charge.html', amount = amount)
 
