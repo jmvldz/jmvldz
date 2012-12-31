@@ -21,10 +21,8 @@
                 <form action="/charge" method="post">
                     <script src="https://checkout.stripe.com/v2/checkout.js" class="stripe-button"
                         data-key="{{ key }}"
-                        data-name="{{ company.name }}"
                         data-description="{{ client.description }}"
-                        data-amount="{{ client.cents }}"
-                        data-label="Submit Payment">
+                        data-amount="{{ client.cents }}">
                     </script>
                 </form>
             <h1>

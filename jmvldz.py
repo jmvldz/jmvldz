@@ -2,27 +2,30 @@
 # written by Josh Valdez
 
 # imports
-import stripe
+import stripe, os
 from flask import Flask, request, render_template
 
 # config
 DEBUG = True
-PUBLISHABLE_KEY = 'pk_foo'
-SECRET_KEY = 'sk_bar'
 COMPANY = {'name': 'Joshua Miles Valdez'}
 
 # stripe config
-#stripe_keys = {
-#    'secret_key': os.environ['SECRET_KEY'],
-#    'publishable_key': os.environ['PUBLISHABLE_KEY']
-#}
-
-stripe_keys = {
+STRIPE_KEYS_T = {
     'secret_key': 'sk_test_di8yqIu1WG4SS1HnLKmxhHEq',
     'publishable_key': 'pk_test_4favssQkxAyb333FIyM1Ybjr'
 }
 
-stripe.api_key = stripe_keys['secret_key']
+STRIPE_KEYS_S = {
+    'secret_key': os.environ['SECRET_KEY'],
+    'publishable_key': os.environ['PUBLISHABLE_KEY']
+}
+
+stripe.api_key = STRIPE_KEYS_S['secret_key']
+
+# payments
+STOLLER = {'name': 'Elliot', 'amount': '250', 'cents': '25000',
+            'description': 'Amends Website Upgrade'}
+
 
 # application
 app = Flask(__name__)
@@ -42,28 +45,23 @@ def show_vis():
     return render_template('retweet_network.html')
 
 @app.route('/stoller')
-def payment():
-    amount = '250'
-    client = {'name': 'Elliot', 'amount': amount, 'cents': cents(amount),
-              'description': 'Amends Website Upgrade'}
-    return render_template('payment.html', key =stripe_keys['publishable_key'],
-                           client = client, company = COMPANY)
+def stoller():
+    return render_template('payment.html', key = STRIPE_KEYS_S['publishable_key'],
+                           client = STOLLER, company = COMPANY)
 
-@app.route('/charge')
+@app.route('/charge', methods = ['POST'])
 def charge():
-    amount = int(request.form['data-amount'])
-
     customer = stripe.Customer.create(
         email = 'stoller@stanford.edu',
         card = request.form['stripeToken'])
 
     charge = stripe.Charge.create(
         customer = customer.id,
-        amount = amount,
+        amount = STOLLER['cents'],
         currency = 'usd',
-        description = request.form['data-description'])
+        description = STOLLER['description'])
 
-    return render_template('charge.html', amount = amount)
+    return render_template('charge.html', client = STOLLER)
 
 
 # main
