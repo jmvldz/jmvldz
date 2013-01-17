@@ -189,7 +189,6 @@ header {
 
 nav {
 	text-align: center;
-	position: fixed;
 	z-index: 1000;
 	width: 100%;
 }
@@ -294,13 +293,12 @@ span.logotext {
 
 #intro {
 	background: url(../images/intro_bg2.jpg) fixed;
-	height: 530px;
+	height: 490px;
 }
 
 .title {
-	margin: 170px auto 0 auto;
+	margin: 40px auto 0 auto;
 	text-align: center;
-	position: fixed;
 	color: #fff;
 	width: 100%;
 	
