@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: commando
+Version: 0.3a
+Summary: A declarative interface to argparse with additional utilities
+Home-page: http://github.com/lakshmivyas/commando
+Author: Lakshmi Vyas
+Author-email: lakshmi.vyas@gmail.com
+License: MIT
+Description: Adds decorators that allow subcommands to be defined as simple functions
+Keywords: argparse commandline utility
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: User Interfaces
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires: python (>= 2.7)
+Provides: commando
