@@ -4,32 +4,18 @@
 # imports
 import stripe, os
 from flask import Flask, request, render_template
+from flask_flatpages import FlatPages
 
 # config
-DEBUG = True
-COMPANY = {'name': 'Joshua Miles Valdez'}
-
-# stripe config
-STRIPE_KEYS_T = {
-    'secret_key': 'sk_test_di8yqIu1WG4SS1HnLKmxhHEq',
-    'publishable_key': 'pk_test_4favssQkxAyb333FIyM1Ybjr'
-}
-
-STRIPE_KEYS_S = {
-    'secret_key': os.environ['SECRET_KEY'],
-    'publishable_key': os.environ['PUBLISHABLE_KEY']
-}
-
-stripe.api_key = STRIPE_KEYS_S['secret_key']
-
-# payments
-STOLLER = {'name': 'Elliot', 'amount': '250', 'cents': '25000',
-            'description': 'Amends Website Upgrade'}
-
+#DEBUG = True
+#COMPANY = {'name': 'Joshua Miles Valdez'}
 
 # application
 app = Flask(__name__)
-app.config.from_object(__name__)
+#app.config.from_object(__name__)
+app.config.from_pyfile('config/jmvldz.cfg')
+
+stripe.api_key = STRIPE_KEYS_S['secret_key']
 
 # helper functions
 def cents(amount):
