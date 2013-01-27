@@ -6,16 +6,18 @@ import stripe, os
 from flask import Flask, request, render_template
 from flask_flatpages import FlatPages
 
-# config
-#DEBUG = True
-#COMPANY = {'name': 'Joshua Miles Valdez'}
+# stripe config
+STRIPE_KEYS_S = {
+    'secret_key': os.environ['SECRET_KEY'],
+    'publishable_key': os.environ['PUBLISHABLE_KEY']
+}
 
 # application
 app = Flask(__name__)
 #app.config.from_object(__name__)
 app.config.from_pyfile('config/jmvldz.cfg')
 
-stripe.api_key = STRIPE_KEYS_S['secret_key']
+#stripe.api_key = STRIPE_KEYS_S['secret_key']
 
 # helper functions
 def cents(amount):
