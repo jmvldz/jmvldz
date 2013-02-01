@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<head>
+
+	<!-- Basic Page Needs
+  ================================================== -->
+	<meta charset="utf-8">
+	<title>Joshua Miles Valdez</title>
+	<meta name="description" content="Personal site of Josh Valdez' consulting business">
+	<meta name="author" content="Josh Valdez">
+
+	<!-- Mobile Specific Metas
+  ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<!-- CSS
+  ================================================== -->
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,400,600,700,800' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Marck+Script' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/base.css') }}">
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/skeleton.css') }}">
+	
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/layout-blue.css') }}">
+	<link rel="alternate stylesheet" type="text/css" media="screen" title="orange-theme" href="{{ url_for('static', filename='css/layout-orange.css') }}" />
+	<link rel="alternate stylesheet" type="text/css" media="screen" title="yellow-theme" href="{{ url_for('static', filename='css/layout-yellow.css') }}" />
+	
+	<link href="{{ url_for('static', filename='img/fancybox/jquery.fancybox-1.3.4.css') }}" rel="stylesheet" type="text/css" />
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/elastislide.css') }}">
+
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Favicons
+	================================================== -->
+	<link rel="shortcut icon" href="{{ url_for('static', filename='img/joshua_miles_valdez_favicon_32x32.jpg') }}">
+	<link rel="apple-touch-icon" href="{{ url_for('static', filename='img/joshua_miles_valdez_favicon_32x32.jpg') }}">
+	<link rel="apple-touch-icon" sizes="72x72" href="{{ url_for('static', filename='img/joshua_miles_valdez_favicon_72x72.jpg') }}">
+	<link rel="apple-touch-icon" sizes="114x114" href="{{ url_for('static', filename='img/joshua_miles_valdez_favicon_114x114.jpg') }}">
+
+{% include 'portfolio/javascript.html' %}
+
+</head>
+
