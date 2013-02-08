@@ -41,6 +41,10 @@ def stoller():
     return render_template('payments/payment.html', key = STRIPE_KEYS_S['publishable_key'],
                            client = STOLLER, company = COMPANY)
 
+@app.route('/mt')
+def mt():
+    return render_template('mt/index.html')
+
 @app.route('/charge', methods = ['POST'])
 def charge():
     customer = stripe.Customer.create(
