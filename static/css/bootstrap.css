@@ -750,7 +750,7 @@ h1 {
 }
 
 h2 {
-  font-size: 31.5px;
+  font-size: 8px;
 }
 
 h3 {
@@ -5990,11 +5990,11 @@ a.badge:hover {
 }
 
 .hero-unit {
-  padding: 5px;
+  padding: 10px;
   margin-bottom: 10px;
-  font-size: 13px;
-  font-weight: 150;
-  line-height: 20px;
+  font-size: 10px;
+  font-weight: 200;
+  line-height: 15px;
   color: inherit;
   background-color: #eeeeee;
   -webkit-border-radius: 6px;
