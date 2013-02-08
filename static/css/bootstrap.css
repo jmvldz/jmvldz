@@ -649,7 +649,8 @@ a:hover {
 
 p {
   margin: 0 0 10px;
-  font-size: 8px;
+  font-size: 10px;
+  line-height: 12px;
 }
 
 .lead {
