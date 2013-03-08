@@ -650,7 +650,7 @@ a:hover {
 p {
   margin: 0 0 2px;
   font-size: 10px;
-  line-height: 12px;
+  line-height: 16px;
 }
 
 .lead {
@@ -725,7 +725,7 @@ h6 {
   margin: 2px 0;
   font-family: inherit;
   font-weight: bold;
-  line-height: 12px;
+  line-height: 22px;
   color: inherit;
   text-rendering: optimizelegibility;
 }
@@ -756,7 +756,7 @@ h2 {
 }
 
 h3 {
-  font-size: 16px;
+  font-size: 22px;
 }
 
 h4 {

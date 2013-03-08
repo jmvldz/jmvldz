@@ -1,0 +1,19 @@
+{% raw %}
+<hr />
+<h1>{{profile.username}}</h1>
+<ul class="song-card-container" ui:sortable="sortableOptions" ng-model="tracks">
+	<li class="song-card" ng-repeat="track in tracks">
+		<div class="card-buttons">
+			<div class="card-handle"><img src="/static/spin/img/drag-icon.png" alt="drag" /></div> 
+			<div class="card-delete" ng-click="deleteCard(track)"><img src="/static/spin/img/delete-icon.png" /></div>
+		</div>
+		<div class="song-title">{{track.title}}</div>
+		<div class="song-artist">{{track.user.username}}</div>
+		<div class="song-artwork" ng-click="playFromCard(track)">
+			<img ng-src="{{track.artwork_url}}">
+			<div class="card-play-pause"><img ng-src="/static/spin/img/card-{{track.playIconState}}-icon.png" /></div>
+		</div>
+		<div class="sc-link"><a target="_blank" ng-href="{{track.permalink_url}}">link to soundcloud</a></div>
+	</li>
+	</ul>
+{% endraw %}

@@ -1,0 +1,51 @@
+{% raw %}
+<!doctype html>
+<html ng-app="ddPlayer">
+  <head>
+    <script src="//connect.soundcloud.com/sdk.js"></script>
+    <script src="/static/spin/js/jquery-1.8.2.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.4/angular.min.js"></script>
+    <script src="/static/spin/js/angular-ui.min.js"></script>
+    <script type="text/javascript" src="/static/spin/js/underscore.js"></script>
+    <script type="text/javascript" src="/static/spin/js/underscore.observable.js"></script>
+    <script type="text/javascript" src="/static/spin/js/app.js"></script>
+    <script type="text/javascript" src="/static/spin/js/c-player.js"></script>
+    <script type="text/javascript" src="/static/spin/js/c-pageview.js"></script>
+    <link rel="stylesheet" href="/static/spin/css/style.css">
+  </head>
+  <body>
+    <div ng-controller="PlayerCtrl">
+      <h2>Custom Player for Spinsetter by Danny Dalton</h2>
+      <div class="track-info">
+        <div class="track-username"><h3>{{currentTrack.user.username}}</h3></div>
+        <div class="track-title"><h4>{{currentTrack.title}}</h4></div>
+        <div class="track-artwork"><img ng-src="{{currentTrack.artwork_url}}"></div>
+        <div class="song-progress-wrapper">
+          <div class="song-progress" style="width: {{currentPos}}px"></div>
+        </div>
+      </div>
+      <br>
+      <div class="player-controls">
+        <div class="first-player-control" ng-click="skipBack()">SkipBack</div>
+        <div ng-click="rewind()">Rewind("")</div>
+        <div ng-click="play()">Play</div>
+        <div ng-click="pause()">Pause</div>
+        <div ng-click="ffwd()">FFW(Needs click + hold functionality)</div>
+        <div ng-click="skipFwd()">Skip Fwd</div>
+      </div>
+    </div>
+    <br />
+    <div ng-controller="PageViewCtrl">
+      <hr />
+      <h4>Pages:</h3>
+      <div class="homepage"><a href="/">Home</a></div>
+      <div ng-repeat="profile in profiles">
+        <a ng-href="/profile/{{profile.username}}">{{profile.username}}</a>
+      </div>
+      <hr />
+      <div ng-view></div>
+      <div>
+  </body>
+</html>
+{% endraw %}

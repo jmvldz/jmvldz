@@ -2,3 +2,5 @@
 * Write a few posts - customizing computer, time mgmt, finances, blog setup
 * Create clean layout with normal size type
 * Use Google typeface - PT (Sans | Serif | Sans Narrow)
+
+Easy to Read - http://informationarchitects.net/blog/100e2r/

@@ -76,6 +76,17 @@ def logs():
 def marketing():
     return render_template('log/marketing-narrow.html')
 
+@app.route('/spin')
+def spin():
+    return render_template('spin/index.html')
+
+@app.route('/profile.html')
+def profile():
+    return render_template('spin/profile.html')
+
+@app.route('/home.html')
+def home():
+    return render_template('spin/home.html')
 
 # main
 if __name__ == '__main__':
