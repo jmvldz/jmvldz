@@ -19,7 +19,7 @@ var vis = d3.select("#chart")
     .attr("height", h);
 
 $(document).ready(function() {
-  d3.json("http://jmvldz.com/static/js/retweet_network.json", function(json) {
+  d3.json("https://jmvldz.com/static/js/retweet_network.json", function(json) {
     jnodes = json.nodes;
     jlinks = json.links;
 

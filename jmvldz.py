@@ -3,7 +3,8 @@
 
 # imports
 import stripe, os
-from flask import Flask, request, render_template
+from flask import Flask, render_template
+#from flask import request
 from flask_flatpages import FlatPages, pygments_style_defs
 
 # config - TODO
@@ -32,32 +33,32 @@ def cents(amount):
 def show_index():
     return render_template('portfolio/index.html')
 
-@app.route('/mind')
+@app.route('/american-mind')
 def show_vis():
     return render_template('portfolio/retweet_network.html')
 
-@app.route('/stoller')
-def stoller():
-    return render_template('payments/payment.html', key = STRIPE_KEYS_S['publishable_key'],
-                           client = STOLLER, company = COMPANY)
+#@app.route('/stoller')
+#def stoller():
+#    return render_template('payments/payment.html', key = STRIPE_KEYS_S['publishable_key'],
+#                           client = STOLLER, company = COMPANY)
 
-@app.route('/mt')
-def mt():
-    return render_template('mt/index.html')
+#@app.route('/mt')
+#def mt():
+#    return render_template('mt/index.html')
 
-@app.route('/charge', methods = ['POST'])
-def charge():
-    customer = stripe.Customer.create(
-        email = 'stoller@stanford.edu',
-        card = request.form['stripeToken'])
-
-    charge = stripe.Charge.create(
-        customer = customer.id,
-        amount = STOLLER['cents'],
-        currency = 'usd',
-        description = STOLLER['description'])
-
-    return render_template('payments/charge.html', client = STOLLER)
+#@app.route('/charge', methods = ['POST'])
+#def charge():
+#    customer = stripe.Customer.create(
+#        email = 'stoller@stanford.edu',
+#        card = request.form['stripeToken'])
+#
+#    charge = stripe.Charge.create(
+#        customer = customer.id,
+#        amount = STOLLER['cents'],
+#        currency = 'usd',
+#        description = STOLLER['description'])
+#
+#    return render_template('payments/charge.html', client = STOLLER)
 
 @app.route('/pygments.css')
 def pygments_css():
@@ -76,17 +77,6 @@ def logs():
 def marketing():
     return render_template('log/marketing-narrow.html')
 
-@app.route('/spin')
-def spin():
-    return render_template('spin/index.html')
-
-@app.route('/profile.html')
-def profile():
-    return render_template('spin/profile.html')
-
-@app.route('/home.html')
-def home():
-    return render_template('spin/home.html')
 
 # main
 if __name__ == '__main__':
